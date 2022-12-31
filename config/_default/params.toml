@@ -17,7 +17,7 @@ subtitle = "Custom text"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/profile.png"
 
 [article]
 math = false
