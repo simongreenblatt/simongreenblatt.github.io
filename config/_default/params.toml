@@ -18,7 +18,7 @@ subtitle = "Sc.M. in Cybersecurity Brown University"
 enabled = true
 local = false
 # src = "img/avatar.png"
-src = "resources/_gen/images/avatar.png"
+src = "/workspaces/simongreenblatt.github.io/resources/_gen/images/avatar.png"
 
 [article]
 math = false
