@@ -17,7 +17,8 @@ subtitle = "Sc.M. in Cybersecurity Brown University"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+# src = "img/avatar.png"
+src = "resources/_gen/images/avatar.png"
 
 [article]
 math = false
