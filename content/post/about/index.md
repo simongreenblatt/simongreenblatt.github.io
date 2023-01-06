@@ -23,4 +23,4 @@ Hi! I'm glad you've taken the time to visit my website and that you're intereste
 
 I'm currently a Master's student at [Brown University](https://www.brown.edu/) (one of the eight **Ivy League** private research universities) studing **Cybersecurity**. I'm enrolled in the Computer Science track which focuses on the technical and computing aspects of Cybersecurity while still gaining a complementary perspective on human factors and law. I previously completed my undergraduate studies at [North Carolina State University](https://www.ncsu.edu/) where I graduated **summa cum laude** in Mathematics with a minor in Computer Programming.
 
-My main area of interest is **Cryptography** and 
+My main area of interest is **Cryptography** and.
