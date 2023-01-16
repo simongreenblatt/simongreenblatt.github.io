@@ -24,8 +24,7 @@ Hi! I'm glad you've taken the time to visit my website and that you're intereste
 
 I'm currently a Master's student at [Brown University](https://www.brown.edu/) (one of the eight **Ivy League** private research universities) studying **Cybersecurity**. I'm enrolled in the Computer Science track which focuses on the technical and computing aspects of Cybersecurity, while gaining a complementary perspective on human factors and law. I previously completed my undergraduate studies at [North Carolina State University](https://www.ncsu.edu/) where I graduated **summa cum laude** in Mathematics with a minor in Computer Programming.
 
-{{ $image := resources.Get "climb.jpg" }}
-{{ $image := $image.Resize "400x" }}
+<img src="climb.png" width="400" height="400">
 I like to climb volcanos!
 
 I have experience with software development, computer architecture, and distributed systems, as well as mathematical and applied cryptography. My main areas of interest are **Cryptography** and **Computer Security** in the context of protecting networks, devices, and data. My goal is to specialize in threat modeling and the management of IT systems in order to solve complex, real-world security problems.
