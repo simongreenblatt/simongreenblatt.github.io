@@ -20,18 +20,18 @@ toc: true
 
 ---
 
-#### A Mathematical Introduction to Lattice-Based Cryptography
+## Lattice-Based Cryptography
 
 Description here
 
-#### The Diffie-Hellman Key Exchange
+## The Diffie-Hellman Key Exchange
 
 Description here
 
-#### An Agenda for Improving the Cybersecurity of Critical Infrastructure
+## Cybersecurity of Critical Infrastructure
 
 Description here
 
-#### A Usability Approach to the Authentication Problem
+## Usability of Authentication
 
 Description here
