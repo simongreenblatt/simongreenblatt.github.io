@@ -46,6 +46,8 @@ The U.S. government has adopted a voluntary, nonregulatory, incentive-based fram
 
 ## Usability of Authentication
 
+"You're only as strong as your weakest link". Too often companies rely on security training and password complexity requirements to ensure proper use of **authentication mechanisms**. However, this overexposure to training bombardment can lead to security fatigue. This paper argues that usability is a better way of achieving security goals while reducing friction in the user experience. I address usability in the context of **password management**, multi-factor authentication, security questions, and mobile authentication.
+
 **Timeline:** September - December 2022  
-**Keywords:** Critical Infrastructure, NIST Cybersecurity Framework, CISA, Law  
+**Keywords:** Usability, MFA, Password Management, Human Factors  
 **Link:** [A Usability Approach to The Authentication Problem](usability.pdf)

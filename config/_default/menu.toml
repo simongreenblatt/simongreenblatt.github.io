@@ -1,10 +1,10 @@
 # Configure main menu and social menu
 [[main]]
-identifier = "home"
-name = "Home"
+identifier = "profile"
+name = "profile"
 url = "/p/about"
 [main.params]
-icon = "home"
+icon = "person"
 newtab = false
 [[main]]
 identifier = "research"
