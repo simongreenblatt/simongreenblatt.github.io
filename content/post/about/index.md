@@ -35,3 +35,6 @@ I have experience with software development, computer architecture, and distribu
 - B.S. in Mathematics with Minor in Computer Programing at [North Carolina State University](https://www.ncsu.edu/), *05/2022*
 - Study abroad program at [Università di Pisa](https://www.unipi.it/), *12/2021*
 - Supplementary high school experience with the [North Carolina School of Science and Mathematics](https://www.ncssm.edu/) Online Program
+
+My email:  [scamposg@cs.brown.edu](mailto:scamposg@cs.brown.edu)
+My resume: [Here](Resume_Cyber.pdf)

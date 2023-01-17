@@ -20,3 +20,11 @@ url = "/p/projects"
 [main.params]
 icon = "file"
 newtab = false
+
+[[social]]
+identifier = "email"
+name = "E-mail"
+url = "mailto:scamposg@cs.brown.edu"
+
+[social.params]
+icon = "email"
