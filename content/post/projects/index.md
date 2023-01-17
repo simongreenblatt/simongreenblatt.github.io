@@ -1,6 +1,6 @@
 ---
 title: Projects
-description: Here are some of the programming projects I've completed.
+description: Programming and Computer Science projects I've completed.
 slug: projects
 date: 2023-01-17 00:00:00+0000
 toc: true

@@ -1,6 +1,6 @@
 ---
 title: Research
-description: Here are some of the research papers I've written on cryptography as well as the human and legal factors that interact with cybersecurity.
+description: Research papers I've written on Cryptography and Cybersecurity.
 slug: research
 date: 2023-01-17 00:00:00+0000
 toc: true
@@ -22,24 +22,30 @@ toc: true
 
 ## Lattice-Based Cryptography
 
-**Timeline:** January - May 2021
-**Keywords:** Lattices, Post-quantum Cryptography, GGH, NTRU, Lattice Reduction
-**Link:** [A Mathematical Introduction to Lattice-Based Cryptography](A Mathematical Introduction to Lattice-Based Cryprography.pdf)
+My undergraduate Mathematics Capstone project puts forth the theory of **lattices** as a viable source for **quantum-resistant** cryptographic problems. In it, I discuss the GGH and NTRU lattice-based cryptosystems as well as their mathematical background. I also introduce the LLL lattice reduction algorithm in the context of **cryptanalysis.** As part of this project, I coded a version of the LLL algorithm (in the C language) and presented my results to the Mathematics Honors Program at my university.
 
-## The Diffie-Hellman Key Exchange
+**Timeline:** January - May 2021  
+**Keywords:** Lattices, Post-quantum Cryptography, GGH, NTRU, Lattice Reduction  
+**Link:** [A Mathematical Introduction to Lattice-Based Cryptography](lattices.pdf)
 
-**Timeline:** January - May 2021
-**Keywords:** Key-exchange, Discrete Logarithm, Binary Exponential Algorithm
-**Link:** [The Diffie-Hellman Key Exchange](The Diffie-Hellman Key Exchange.pdf)
+## Diffie-Hellman Key Exchange
+
+This collaborative paper examines the mathematics behind the Diffie-Hellman Key Exchange. We provide an algebraic background to the **discrete logarithm problem** and a concrete example of the algorithm in action. Additionaly, we discuss computational difficulties in implementing it and explain how the **Binary Exponential Algorithm** solves these problems.
+
+**Timeline:** January - May 2021  
+**Keywords:** Key-exchange, Discrete Logarithm, Binary Exponential Algorithm  
+**Link:** [The Diffie-Hellman Key Exchange](key_exchange.pdf)
 
 ## Cybersecurity of Critical Infrastructure
 
-**Timeline:** September - December 2022
-**Keywords:** Critical Infrastructure, NIST Cybersecurity Framework, CISA, Law
-**Link:** [An Agenda for Improving the Cybersecurity of Critical Infrastructure](Critical Infrastructure Agenda.pdf)
+The U.S. government has adopted a voluntary, nonregulatory, incentive-based framework for protecting the various critical infrastructure sectors.
+
+**Timeline:** September - December 2022  
+**Keywords:** Critical Infrastructure, NIST Cybersecurity Framework, CISA, Law  
+**Link:** [An Agenda for Improving the Cybersecurity of Critical Infrastructure](critical_infrastructure.pdf)
 
 ## Usability of Authentication
 
-**Timeline:** September - December 2022
-**Keywords:** Critical Infrastructure, NIST Cybersecurity Framework, CISA, Law
-**Link:** [A Usability Approach to The Authentication Problem](Usability in Authentication.pdf)
+**Timeline:** September - December 2022  
+**Keywords:** Critical Infrastructure, NIST Cybersecurity Framework, CISA, Law  
+**Link:** [A Usability Approach to The Authentication Problem](usability.pdf)
