@@ -28,3 +28,11 @@ url = "mailto:scamposg@cs.brown.edu"
 
 [social.params]
 icon = "email"
+
+[[social]]
+identifier = "resume"
+name = "Resume"
+url = "/p/about/Resume_Cyber.pdf"
+
+[social.params]
+icon = "info"

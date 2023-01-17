@@ -20,4 +20,18 @@ toc: true
 
 ---
 
-Research page
+#### A Mathematical Introduction to Lattice-Based Cryptography
+
+Description here
+
+#### The Diffie-Hellman Key Exchange
+
+Description here
+
+#### An Agenda for Improving the Cybersecurity of Critical Infrastructure
+
+Description here
+
+#### A Usability Approach to the Authentication Problem
+
+Description here

@@ -37,4 +37,5 @@ I have experience with software development, computer architecture, and distribu
 - Supplementary high school experience with the [North Carolina School of Science and Mathematics](https://www.ncssm.edu/) Online Program
 
 My email:  [scamposg@cs.brown.edu](mailto:scamposg@cs.brown.edu)
+
 My resume: [Here](Resume_Cyber.pdf)
