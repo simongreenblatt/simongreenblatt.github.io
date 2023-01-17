@@ -32,7 +32,7 @@ icon = "email"
 [[social]]
 identifier = "resume"
 name = "Resume"
-url = "/p/about/Resume_Cyber.pdf"
+url = "/p/about/resume_cyber.pdf"
 
 [social.params]
 icon = "info"
