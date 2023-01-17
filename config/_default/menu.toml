@@ -6,3 +6,17 @@ url = "/p/about"
 [main.params]
 icon = "home"
 newtab = false
+[[main]]
+identifier = "research"
+name = "Research"
+url = "/p/research"
+[main.params]
+icon = "glasses"
+newtab = false
+[[main]]
+identifier = "projects"
+name = "Projects"
+url = "/p/projects"
+[main.params]
+icon = "file"
+newtab = false
