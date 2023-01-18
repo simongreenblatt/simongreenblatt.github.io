@@ -1,7 +1,7 @@
 # Configure main menu and social menu
 [[main]]
 identifier = "profile"
-name = "profile"
+name = "Profile"
 url = "/p/about"
 [main.params]
 icon = "person"

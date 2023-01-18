@@ -27,7 +27,7 @@ I'm currently a Master's student at [Brown University](https://www.brown.edu/) (
 ![Climb](climb.jpg)
 I like to climb volcanos!
 
-I have experience with software development, computer architecture, and distributed systems, as well as mathematical and applied cryptography. My main areas of interest are **Cryptography** and **Computer Security** in the context of protecting networks, devices, and data. My goal is to specialize in threat modeling and the management of IT systems in order to solve complex, real-world security problems.
+I have experience with software development, computer architecture, and distributed systems, as well as mathematical and applied cryptography. My main areas of interest are **Computer Security** and **Cryptography** in order to protect networks, devices, and data. My goal is to specialize in threat modeling and the management of IT systems to solve complex, real-world security problems.
 
 #### Education
 
@@ -36,5 +36,5 @@ I have experience with software development, computer architecture, and distribu
 - Study abroad program at [Università di Pisa](https://www.unipi.it/), *12/2021*
 - Supplementary high school experience with the [North Carolina School of Science and Mathematics](https://www.ncssm.edu/) Online Program
 
-My email:  [scamposg@cs.brown.edu](mailto:scamposg@cs.brown.edu)  
-My resume: [Link](resume_cyber.pdf)
+E-mail: [scamposg@cs.brown.edu](mailto:scamposg@cs.brown.edu)  
+Resume: [Link](resume_cyber.pdf)
