@@ -36,5 +36,5 @@ I have experience with software development, computer architecture, and distribu
 E-mail: [scamposg@cs.brown.edu](mailto:scamposg@cs.brown.edu)  
 Resume: [Link](resume_cyber.pdf)
 
-![Climb](climb.jpg)  
+![ ](climb.jpg)  
 I like to climb volcanos!
