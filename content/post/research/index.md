@@ -1,6 +1,6 @@
 ---
 title: Research
-description: Research papers I've written on Cryptography and Cybersecurity.
+description: Research papers on cryptography and cybersecurity
 slug: research
 date: 2023-01-17 00:00:00+0000
 toc: true

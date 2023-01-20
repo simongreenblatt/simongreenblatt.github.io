@@ -1,6 +1,6 @@
 ---
 title: Profile
-description: My educational background and contact information.
+description: Educational background and contact information
 slug: about
 date: 2023-01-06 00:00:00+0000
 toc: false
