@@ -2,7 +2,7 @@
 title: Projects
 description: Programming and computer science projects
 slug: projects
-date: 2023-01-17 00:00:00+0000
+date: 2023-01-22 00:00:00+0000
 toc: true
 #image: cover.jpg
 #categories:
@@ -20,7 +20,7 @@ toc: true
 
 ---
 
-## Data Structures and Algorithms
+## Data Structures and Algorithms Library
 
 ![ ](structures.jpg)
 
@@ -33,7 +33,7 @@ This **Java** library of over 30 data structures and algorithms demonstrates the
 
 ![ ](management.jpg)
 
-Based on the Model-View-Controller design pattern, I developed a **management application** for handling the customers, inventory, and orders of a fictional business. This project gave me experience in the **software development lifecycle**, debugging techniques, continuous integration practices, and unit/system testing. From UML class diagram proposals to user stories, this project took a comprehensive look at software development processes and practices.
+Based on the Model-View-Controller design pattern, I developed a **management application** for handling the customers, inventory, and orders of a fictional business. This project gave me experience with the **software development lifecycle**, debugging techniques, continuous integration practices, and unit/system testing. From UML class diagrams to user stories, this project took a comprehensive look at software development processes and practices.
 
 **Timeline:** August - December 2020  
 **Technologies:** Java, Eclipse, UMLet, GitHub
@@ -42,7 +42,16 @@ Based on the Model-View-Controller design pattern, I developed a **management ap
 
 ![ ](database.jpg)
 
-This program manages a database of movie entries. The command line interface allows the user to sort and display movies by genre or release date. By using the C languge, a **low-level programming** approach allowed me to explore concepts such as memory leaks, function pointers, and **dynamic memory allocation**.
+This program manages a database of movie entries that are loaded from a file. The command line interface allows the user to sort and display movies by genre or release date. By using the C language, a **low-level procedural programming** approach allowed me to explore concepts such as memory leaks, function pointers, and **dynamic memory allocation**. As a behind-the-scenes look at object orientation, this project exposes how techniques like inheritance and overriding work in C++.
 
 **Timeline:** January - May 2021  
 **Technologies:** C language, Valgrind, GNU Debugger (GDB), GitHub
+
+## Thread Safety and Synchronization
+
+![ ](clock.jpg)
+
+We like threads to cooperate by using shared memory. But what happens when two threads try to concurrently access the same memory? This project examines different ways of resolving race conditions and the **critical section problem**. A noun and adjective generator initialize threads that must share structures in a bounded buffer before they can be printed to the screen. In order to ensure mutual exclusion of memory among threads, I used **semaphores**, mutexes, and condition variables.
+
+**Timeline:** January - May 2022  
+**Technologies:** EOS Linux, POSIX System Calls, Von Neumann Architecture
