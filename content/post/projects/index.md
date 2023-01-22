@@ -24,7 +24,7 @@ toc: true
 
 ![ ](structures.jpg)
 
-This **Java** library of over 30 data structures and algorithms demonstrates the importance of **algorithmic complexity** in relation to the choice of data structures. In it, I've coded linked list and array-based variations of stacks, queues, trees, lists, graphs, hash tables, and other structures. I've also included implementations of related algorithms such as Quicksort, Breadth-first search, Dijkstra's Algorithm, tree traversal algorithms, and many others. This project was built using the principles of Object-Oriented Programming and does not rely on existing Java libraries.
+This **Java** library of over 30 data structures and algorithms demonstrates the importance of **algorithmic complexity** in relation to the choice of data structures. In it, I've coded linked-list and array-based variations of stacks, queues, trees, lists, graphs, hash tables, and other structures. I've also included implementations of related algorithms such as Quicksort, Breadth-first search, Dijkstra's Algorithm, tree traversal algorithms, and many others. This project was built using the principles of Object-Oriented Programming and does not rely on existing Java libraries.
 
 **Timeline:** January - May 2021  
 **Technologies:** Java, Eclipse, Jenkins, GitHub
@@ -51,7 +51,7 @@ This program manages a database of movie entries that are loaded from a file. Th
 
 ![ ](clock.jpg)
 
-We like threads to cooperate by using shared memory. But what happens when two threads try to concurrently access the same memory? This project examines different ways of resolving race conditions and the **critical section problem**. A noun and adjective generator initialize threads that must share structures in a bounded buffer before they can be printed to the screen. In order to ensure mutual exclusion of memory among threads, I used **semaphores**, mutexes, and condition variables.
+We like threads to cooperate by using shared memory. But what happens when two threads try to concurrently access the same memory? This project examines different ways of resolving race conditions and the **critical section problem**. Noun and adjective generators initialize threads that must share structures in a bounded buffer before they can be printed to the screen. In order to ensure mutual exclusion of memory among threads, I used **semaphores**, mutexes, and condition variables.
 
 **Timeline:** January - May 2022  
 **Technologies:** EOS Linux, POSIX System Calls, Von Neumann Architecture
