@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Simon Greenblatt</title><link>https://simongreenblatt.github.io/</link><description>Recent content on Simon Greenblatt</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://simongreenblatt.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Projects</title><link>https://simongreenblatt.github.io/p/projects/</link><pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate><guid>https://simongreenblatt.github.io/p/projects/</guid><description>&lt;h2 id="secure-communication-framework">Secure Communication Framework&lt;/h2>
+&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/signal.jpg"
+width="400"
+height="229"
+srcset="https://simongreenblatt.github.io/p/projects/signal_hub1cfd495f054363d96da488988c776f9_50049_480x0_resize_q75_box.jpg 480w, https://simongreenblatt.github.io/p/projects/signal_hub1cfd495f054363d96da488988c776f9_50049_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="174"
+data-flex-basis="419px"
+>&lt;/p>
+&lt;p>The most fundamental problem in cryptography is that of establishing a &lt;strong>secure communication channel&lt;/strong> that provides both message security and integrity. This program accomplishes just that. Two clients connect to each other to exchange encrypted and verified text messages through a command line interface. A &lt;strong>Diffie-Hellman ratchet&lt;/strong> ensures keys are changed every time the direction of communication switches. The following cryptographic parameters are used – Key Exchange: Diffie-Hellman and HKDF. Encryption: 256-bit AES in CBC mode with random IV. Message Authentication: HMAC-SHA256 with salt.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> January - May 2023&lt;br>
+&lt;strong>Technologies:&lt;/strong> C++, CryptoPP, Docker, Visual Studio&lt;/p>
+&lt;h2 id="thread-safety-and-synchronization">Thread Safety and Synchronization&lt;/h2>
+&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/clock.jpg"
+width="400"
+height="246"
+srcset="https://simongreenblatt.github.io/p/projects/clock_hubb9bf09bca9da5d83b02be17a95ee716_71062_480x0_resize_q75_box.jpg 480w, https://simongreenblatt.github.io/p/projects/clock_hubb9bf09bca9da5d83b02be17a95ee716_71062_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="162"
+data-flex-basis="390px"
+>&lt;/p>
+&lt;p>We like threads to cooperate by using shared memory. But what happens when two threads try to concurrently access the same memory? This project examines different ways of resolving race conditions and the &lt;strong>critical section problem&lt;/strong>. Noun and adjective generators initialize threads that must share structures in a bounded buffer before they can be printed to the screen. In order to ensure mutual exclusion of memory among threads, I used &lt;strong>semaphores&lt;/strong>, mutexes, and condition variables.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> January - May 2022&lt;br>
+&lt;strong>Technologies:&lt;/strong> EOS Linux, POSIX System Calls, Von Neumann Architecture&lt;/p>
+&lt;h2 id="data-structures-and-algorithms-library">Data Structures and Algorithms Library&lt;/h2>
+&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/structures.jpg"
+width="400"
+height="199"
+srcset="https://simongreenblatt.github.io/p/projects/structures_hu0c90aea950656f7cd6df52bf2d4c8715_43823_480x0_resize_q75_box.jpg 480w, https://simongreenblatt.github.io/p/projects/structures_hu0c90aea950656f7cd6df52bf2d4c8715_43823_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="201"
+data-flex-basis="482px"
+>&lt;/p>
+&lt;p>This &lt;strong>Java&lt;/strong> library of over 30 data structures and algorithms demonstrates the importance of &lt;strong>algorithmic complexity&lt;/strong> in relation to the choice of data structures. In it, I&amp;rsquo;ve coded linked-list and array-based variations of stacks, queues, trees, lists, graphs, hash tables, and other structures. I&amp;rsquo;ve also included implementations of related algorithms such as Quicksort, Breadth-first search, Dijkstra&amp;rsquo;s Algorithm, tree traversal algorithms, and many others. This project was built using the principles of Object-Oriented Programming and does not rely on existing Java libraries.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> January - May 2021&lt;br>
+&lt;strong>Technologies:&lt;/strong> Java, Eclipse, Jenkins, GitHub&lt;/p>
+&lt;h2 id="movie-database">Movie Database&lt;/h2>
+&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/database.jpg"
+width="450"
+height="300"
+srcset="https://simongreenblatt.github.io/p/projects/database_hu2a1624517d6a30ada6b7bce75561dd62_51749_480x0_resize_q75_box.jpg 480w, https://simongreenblatt.github.io/p/projects/database_hu2a1624517d6a30ada6b7bce75561dd62_51749_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
+>&lt;/p>
+&lt;p>This program manages a database of movie entries that are loaded from a file. The command line interface allows the user to sort and display movies by genre or release date. By using the C language, a &lt;strong>low-level procedural programming&lt;/strong> approach allowed me to explore concepts such as memory leaks, function pointers, and &lt;strong>dynamic memory allocation&lt;/strong>. As a behind-the-scenes look at object orientation, this project exposes how techniques like inheritance and overriding work in C++.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> January - May 2021&lt;br>
+&lt;strong>Technologies:&lt;/strong> C language, Valgrind, GNU Debugger (GDB), GitHub&lt;/p>
+&lt;h2 id="management-system-application">Management System Application&lt;/h2>
+&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/management.jpg"
+width="500"
+height="224"
+srcset="https://simongreenblatt.github.io/p/projects/management_hu98725ffcbc31d69042ba5edae1494041_51271_480x0_resize_q75_box.jpg 480w, https://simongreenblatt.github.io/p/projects/management_hu98725ffcbc31d69042ba5edae1494041_51271_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="223"
+data-flex-basis="535px"
+>&lt;/p>
+&lt;p>Based on the Model-View-Controller design pattern, I developed a &lt;strong>management application&lt;/strong> for handling the customers, inventory, and orders of a fictional business. This project gave me experience with the &lt;strong>software development lifecycle&lt;/strong>, debugging techniques, continuous integration practices, and unit/system testing. From UML class diagrams to user stories, this project took a comprehensive look at software development processes and practices.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> August - December 2020&lt;br>
+&lt;strong>Technologies:&lt;/strong> Java, Eclipse, UMLet, GitHub&lt;/p></description></item><item><title>Research</title><link>https://simongreenblatt.github.io/p/research/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><guid>https://simongreenblatt.github.io/p/research/</guid><description>&lt;h2 id="lattice-based-cryptography">Lattice-Based Cryptography&lt;/h2>
+&lt;p>&lt;img src="https://simongreenblatt.github.io/p/research/lattice.jpg"
+width="400"
+height="252"
+srcset="https://simongreenblatt.github.io/p/research/lattice_hu21dafded688322fd326c9b11f6aa872f_53251_480x0_resize_q75_box.jpg 480w, https://simongreenblatt.github.io/p/research/lattice_hu21dafded688322fd326c9b11f6aa872f_53251_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>My undergraduate Mathematics Capstone project puts forth the theory of &lt;strong>lattices&lt;/strong> as a viable source of &lt;strong>quantum-resistant&lt;/strong> cryptographic problems. In it, I discuss the GGH and NTRU lattice-based cryptosystems as well as their mathematical background. I also introduce the LLL lattice reduction algorithm as a tool for &lt;strong>cryptanalysis&lt;/strong> on lattices. As part of this project, I coded a version of the LLL algorithm (in the C language) and presented my results to the Mathematics Honors Program at my university.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> January - May 2021&lt;br>
+&lt;strong>Keywords:&lt;/strong> Lattices, Post-quantum Cryptography, Lattice Reduction&lt;br>
+&lt;strong>Link:&lt;/strong> &lt;a class="link" href="lattices.pdf" >A Mathematical Introduction to Lattice-Based Cryptography&lt;/a>&lt;/p>
+&lt;h2 id="diffie-hellman-key-exchange">Diffie-Hellman Key Exchange&lt;/h2>
+&lt;p>&lt;img src="https://simongreenblatt.github.io/p/research/exchange.jpg"
+width="300"
+height="414"
+srcset="https://simongreenblatt.github.io/p/research/exchange_hu30eb2156e3beb9a95d860e3c48e7aaa8_58247_480x0_resize_q75_box.jpg 480w, https://simongreenblatt.github.io/p/research/exchange_hu30eb2156e3beb9a95d860e3c48e7aaa8_58247_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="72"
+data-flex-basis="173px"
+>&lt;/p>
+&lt;p>The seminal 1976 paper &lt;em>New Directions in Cryptography&lt;/em> by Whitfield Diffie and Martin Hellman laid out the foundation for public-key cryptography. This collaborative paper examines the mathematics behind the Diffie-Hellman Key Exchange. We provide an algebraic background to the &lt;strong>discrete logarithm problem&lt;/strong> and a concrete example of the algorithm in action. Additionally, we discuss computational difficulties in implementing it and explain how the &lt;strong>Binary Exponential Algorithm&lt;/strong> solves these problems.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> January - May 2021&lt;br>
+&lt;strong>Keywords:&lt;/strong> Key-exchange, Discrete Logarithm, Binary Exponential Algorithm&lt;br>
+&lt;strong>Link:&lt;/strong> &lt;a class="link" href="key_exchange.pdf" >The Diffie-Hellman Key Exchange&lt;/a>&lt;/p>
+&lt;h2 id="usability-of-authentication">Usability of Authentication&lt;/h2>
+&lt;p>&lt;img src="https://simongreenblatt.github.io/p/research/logos.jpg"
+width="250"
+height="250"
+srcset="https://simongreenblatt.github.io/p/research/logos_hu9b135ddc884bf599b4fa1088840c2dee_46569_480x0_resize_q75_box.jpg 480w, https://simongreenblatt.github.io/p/research/logos_hu9b135ddc884bf599b4fa1088840c2dee_46569_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>&amp;ldquo;You&amp;rsquo;re only as strong as your weakest link&amp;rdquo;. Too often companies rely on security training and password complexity requirements to ensure proper use of &lt;strong>authentication mechanisms&lt;/strong>. However, this overexposure to training bombardment can lead to security fatigue. This paper argues that usability is a better approach to achieving security goals while reducing friction in the user experience. I address usability in the context of &lt;strong>password management&lt;/strong>, multi-factor authentication, security questions, and mobile authentication.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> September - December 2022&lt;br>
+&lt;strong>Keywords:&lt;/strong> Usability, MFA, Password Management, Human Factors&lt;br>
+&lt;strong>Link:&lt;/strong> &lt;a class="link" href="usability.pdf" >A Usability Approach to The Authentication Problem&lt;/a>&lt;/p>
+&lt;h2 id="cybersecurity-of-critical-infrastructure">Cybersecurity of Critical Infrastructure&lt;/h2>
+&lt;p>&lt;img src="https://simongreenblatt.github.io/p/research/power.jpg"
+width="400"
+height="241"
+srcset="https://simongreenblatt.github.io/p/research/power_hu8c7e398cb44f6f514722e6cb3c7d2c2a_74890_480x0_resize_q75_box.jpg 480w, https://simongreenblatt.github.io/p/research/power_hu8c7e398cb44f6f514722e6cb3c7d2c2a_74890_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="165"
+data-flex-basis="398px"
+>&lt;/p>
+&lt;p>The U.S. government has adopted a voluntary, nonregulatory, incentive-based framework for protecting the various critical infrastructure sectors. This has led to a jumble of incentives and a general lack of legislation. I this paper, I lay out an agenda for increasing adoption of the &lt;strong>NIST Cybersecurity Framework&lt;/strong> and expanding the role of the CISA information sharing program while taking into account the &lt;strong>economic, social, and moral incentives&lt;/strong> at play. I also advocate for a reassessment of the definition for &amp;ldquo;commercial information technology product&amp;rdquo;.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> September - December 2022&lt;br>
+&lt;strong>Keywords:&lt;/strong> Critical Infrastructure, NIST Cybersecurity Framework, CISA, Law&lt;br>
+&lt;strong>Link:&lt;/strong> &lt;a class="link" href="critical_infrastructure.pdf" >An Agenda for Improving the Cybersecurity of Critical Infrastructure&lt;/a>&lt;/p></description></item><item><title>Profile</title><link>https://simongreenblatt.github.io/p/about/</link><pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate><guid>https://simongreenblatt.github.io/p/about/</guid><description>&lt;p>Hi! I&amp;rsquo;m glad you&amp;rsquo;ve taken the time to visit my website and that you&amp;rsquo;re interested in learning more about me.&lt;/p>
+&lt;p>I&amp;rsquo;m currently a Master&amp;rsquo;s student at &lt;a class="link" href="https://www.brown.edu/" target="_blank" rel="noopener"
+>Brown University&lt;/a> (one of the eight &lt;strong>Ivy League&lt;/strong> private research universities) studying &lt;strong>Cybersecurity&lt;/strong>. I&amp;rsquo;m enrolled in the Computer Science track which focuses on the technical and computing aspects of Cybersecurity, while gaining a complementary perspective on human factors and law. I previously completed my undergraduate studies at &lt;a class="link" href="https://www.ncsu.edu/" target="_blank" rel="noopener"
+>North Carolina State University&lt;/a> where I graduated &lt;strong>summa cum laude&lt;/strong> in Mathematics with a minor in Computer Programming.&lt;/p>
+&lt;p>I have experience with software development, computer architecture, and distributed systems, as well as mathematical and applied cryptography. My main areas of interest are &lt;strong>Computer Security&lt;/strong> and &lt;strong>Cryptography&lt;/strong> in order to protect networks, devices, and data. My goal is to specialize in threat modeling and the management of IT systems to solve complex, real-world security problems.&lt;/p>
+&lt;h4 id="education">Education&lt;/h4>
+&lt;ul>
+&lt;li>Sc.M. in Cybersecurity (Computer Science track) at &lt;a class="link" href="https://www.brown.edu/" target="_blank" rel="noopener"
+>Brown University&lt;/a>, &lt;em>expected 05/2024&lt;/em>&lt;/li>
+&lt;li>B.S. in Mathematics with Minor in Computer Programing at &lt;a class="link" href="https://www.ncsu.edu/" target="_blank" rel="noopener"
+>North Carolina State University&lt;/a>, &lt;em>05/2022&lt;/em>&lt;/li>
+&lt;li>Study abroad program at &lt;a class="link" href="https://www.unipi.it/" target="_blank" rel="noopener"
+>Università di Pisa&lt;/a>, &lt;em>12/2021&lt;/em>&lt;/li>
+&lt;li>Supplementary high school experience with the &lt;a class="link" href="https://www.ncssm.edu/" target="_blank" rel="noopener"
+>North Carolina School of Science and Mathematics&lt;/a> Online Program&lt;/li>
+&lt;/ul>
+&lt;p>E-mail: &lt;a class="link" href="mailto:scamposg@cs.brown.edu" >scamposg@cs.brown.edu&lt;/a>&lt;br>
+Resume: &lt;a class="link" href="resume_cyber.pdf" >Link&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://simongreenblatt.github.io/p/about/climb.jpg"
+width="400"
+height="400"
+srcset="https://simongreenblatt.github.io/p/about/climb_huffa49fc8f346f79369d9e5ddde9cdc24_126007_480x0_resize_q75_box.jpg 480w, https://simongreenblatt.github.io/p/about/climb_huffa49fc8f346f79369d9e5ddde9cdc24_126007_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;br>
+I like to climb volcanos!&lt;/p></description></item></channel></rss>
