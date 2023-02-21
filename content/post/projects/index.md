@@ -20,6 +20,24 @@ toc: true
 
 ---
 
+## Secure Communication Framework
+
+![ ](signal.jpg)
+
+The most fundamental problem in cryptography is that of establishing a **secure communication channel** that provides both message security and integrity. This program accomplishes just that. Two clients connect to each other to exchange encrypted and verified text messages through a command line interface. A **Diffie-Hellman ratchet** ensures keys are changed every time the direction of communication switches. The following cryptographic parameters are used – Key Exchange: Diffie-Hellman and HKDF. Encryption: 256-bit AES in CBC mode with random IV. Message Authentication: HMAC-SHA256 with salt.
+
+**Timeline:** January - May 2023  
+**Technologies:** C++, CryptoPP, Docker, Visual Studio
+
+## Thread Safety and Synchronization
+
+![ ](clock.jpg)
+
+We like threads to cooperate by using shared memory. But what happens when two threads try to concurrently access the same memory? This project examines different ways of resolving race conditions and the **critical section problem**. Noun and adjective generators initialize threads that must share structures in a bounded buffer before they can be printed to the screen. In order to ensure mutual exclusion of memory among threads, I used **semaphores**, mutexes, and condition variables.
+
+**Timeline:** January - May 2022  
+**Technologies:** EOS Linux, POSIX System Calls, Von Neumann Architecture
+
 ## Data Structures and Algorithms Library
 
 ![ ](structures.jpg)
@@ -28,15 +46,6 @@ This **Java** library of over 30 data structures and algorithms demonstrates the
 
 **Timeline:** January - May 2021  
 **Technologies:** Java, Eclipse, Jenkins, GitHub
-
-## Management System Application
-
-![ ](management.jpg)
-
-Based on the Model-View-Controller design pattern, I developed a **management application** for handling the customers, inventory, and orders of a fictional business. This project gave me experience with the **software development lifecycle**, debugging techniques, continuous integration practices, and unit/system testing. From UML class diagrams to user stories, this project took a comprehensive look at software development processes and practices.
-
-**Timeline:** August - December 2020  
-**Technologies:** Java, Eclipse, UMLet, GitHub
 
 ## Movie Database
 
@@ -47,11 +56,11 @@ This program manages a database of movie entries that are loaded from a file. Th
 **Timeline:** January - May 2021  
 **Technologies:** C language, Valgrind, GNU Debugger (GDB), GitHub
 
-## Thread Safety and Synchronization
+## Management System Application
 
-![ ](clock.jpg)
+![ ](management.jpg)
 
-We like threads to cooperate by using shared memory. But what happens when two threads try to concurrently access the same memory? This project examines different ways of resolving race conditions and the **critical section problem**. Noun and adjective generators initialize threads that must share structures in a bounded buffer before they can be printed to the screen. In order to ensure mutual exclusion of memory among threads, I used **semaphores**, mutexes, and condition variables.
+Based on the Model-View-Controller design pattern, I developed a **management application** for handling the customers, inventory, and orders of a fictional business. This project gave me experience with the **software development lifecycle**, debugging techniques, continuous integration practices, and unit/system testing. From UML class diagrams to user stories, this project took a comprehensive look at software development processes and practices.
 
-**Timeline:** January - May 2022  
-**Technologies:** EOS Linux, POSIX System Calls, Von Neumann Architecture
+**Timeline:** August - December 2020  
+**Technologies:** Java, Eclipse, UMLet, GitHub

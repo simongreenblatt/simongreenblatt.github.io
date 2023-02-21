@@ -20,21 +20,11 @@ My undergraduate Mathematics Capstone project puts forth the theory of **lattice
 
 ![ ](exchange.jpg)
 
-This collaborative paper examines the mathematics behind the Diffie-Hellman Key Exchange. We provide an algebraic background to the **discrete logarithm problem** and a concrete example of the algorithm in action. Additionally, we discuss computational difficulties in implementing it and explain how the **Binary Exponential Algorithm** solves these problems.
+The seminal 1976 paper *New Directions in Cryptography* by Whitfield Diffie and Martin Hellman laid out the foundation for public-key cryptography. This collaborative paper examines the mathematics behind the Diffie-Hellman Key Exchange. We provide an algebraic background to the **discrete logarithm problem** and a concrete example of the algorithm in action. Additionally, we discuss computational difficulties in implementing it and explain how the **Binary Exponential Algorithm** solves these problems.
 
 **Timeline:** January - May 2021  
 **Keywords:** Key-exchange, Discrete Logarithm, Binary Exponential Algorithm  
 **Link:** [The Diffie-Hellman Key Exchange](key_exchange.pdf)
-
-## Cybersecurity of Critical Infrastructure
-
-![ ](power.jpg)
-
-The U.S. government has adopted a voluntary, nonregulatory, incentive-based framework for protecting the various critical infrastructure sectors. This has led to a jumble of incentives and a general lack of legislation. I this paper, I lay out an agenda for increasing adoption of the **NIST Cybersecurity Framework** and expanding the role of the CISA information sharing program while taking into account the **economic, social, and moral incentives** at play. I also advocate for a reassessment of the definition for "commercial information technology product".
-
-**Timeline:** September - December 2022  
-**Keywords:** Critical Infrastructure, NIST Cybersecurity Framework, CISA, Law  
-**Link:** [An Agenda for Improving the Cybersecurity of Critical Infrastructure](critical_infrastructure.pdf)
 
 ## Usability of Authentication
 
@@ -45,3 +35,13 @@ The U.S. government has adopted a voluntary, nonregulatory, incentive-based fram
 **Timeline:** September - December 2022  
 **Keywords:** Usability, MFA, Password Management, Human Factors  
 **Link:** [A Usability Approach to The Authentication Problem](usability.pdf)
+
+## Cybersecurity of Critical Infrastructure
+
+![ ](power.jpg)
+
+The U.S. government has adopted a voluntary, nonregulatory, incentive-based framework for protecting the various critical infrastructure sectors. This has led to a jumble of incentives and a general lack of legislation. I this paper, I lay out an agenda for increasing adoption of the **NIST Cybersecurity Framework** and expanding the role of the CISA information sharing program while taking into account the **economic, social, and moral incentives** at play. I also advocate for a reassessment of the definition for "commercial information technology product".
+
+**Timeline:** September - December 2022  
+**Keywords:** Critical Infrastructure, NIST Cybersecurity Framework, CISA, Law  
+**Link:** [An Agenda for Improving the Cybersecurity of Critical Infrastructure](critical_infrastructure.pdf)
