@@ -29,6 +29,15 @@ The most fundamental problem in cryptography is that of establishing a **secure 
 **Timeline:** January - May 2023  
 **Technologies:** C++, CryptoPP, Docker, Visual Studio
 
+## Public Key Infrastructure
+
+![ ](certificate.jpg)
+
+This client-server authentication platform leverages **digital signatures** in order for a central verification authority to issue certificates that authenticate users' public keys. Clients log in to a server using a password and two-factor authentication response to obtain a certificate that verifies their identity when communicating with other users. Passwords are hashed using a salt and pepper before being stored in a SQL database. This program achieves an authenticated key exchange that is secure against **man-in-the-middle attacks**.
+
+**Timeline:** January - May 2022  
+**Technologies:** C++, Docker, Visual Studio, SQLite
+
 ## Thread Safety and Synchronization
 
 ![ ](clock.jpg)
@@ -65,5 +74,4 @@ Based on the Model-View-Controller design pattern, I developed a **management ap
 **Timeline:** August - December 2020  
 **Technologies:** Java, Eclipse, UMLet, GitHub
 
-&emsp
 Due to academic integrity policies, I'm not able to provide source code for some or all of my projects.
