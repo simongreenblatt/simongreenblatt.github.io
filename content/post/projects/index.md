@@ -64,3 +64,6 @@ Based on the Model-View-Controller design pattern, I developed a **management ap
 
 **Timeline:** August - December 2020  
 **Technologies:** Java, Eclipse, UMLet, GitHub
+
+&emsp
+Due to academic integrity policies, I'm not able to provide source code for some or all of my projects.
