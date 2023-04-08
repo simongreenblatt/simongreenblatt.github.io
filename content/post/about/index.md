@@ -2,7 +2,7 @@
 title: Profile
 description: Educational background and contact information
 slug: about
-date: 2023-01-06 00:00:00+0000
+date: 2023-04-23 00:00:00+0000
 toc: false
 #image: cover.jpg
 #categories:
