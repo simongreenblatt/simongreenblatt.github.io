@@ -2,7 +2,7 @@
 title: Projects
 description: Programming and computer science projects
 slug: projects
-date: 2023-03-15 00:00:00+0000
+date: 2023-05-09 00:00:00+0000
 toc: true
 #image: cover.jpg
 #categories:
