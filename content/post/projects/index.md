@@ -20,11 +20,20 @@ toc: true
 
 ---
 
+## Private Information Retrieval
+
+![ ](pir.jpg)
+
+As we outsource more of our data storage to cloud services, we need to make sure our data is not only encrypted but that the way in which we access it doesn't reveal unnecessary information to the server. This private information retrieval scheme uses **somewhat homomorphic encryption** to allow a client to retrieve database entries without the server learning which entry is being sent. Data is stored in a **hypercube data store** whose dimension and side length optimize the tradeoff between communication and computation. Using the BFV homomorphic encryption protocol, the server computes an encryption for the entry specified by the client's selection vector.
+
+**Timeline:** January - May 2023  
+**Technologies:** C++, CryptoPP, Microsoft SEAL
+
 ## Secure Communication Framework
 
 ![ ](signal.jpg)
 
-The most fundamental problem in cryptography is that of establishing a **secure communication channel** that provides both message security and integrity. This program accomplishes just that. Two clients connect to each other to exchange encrypted and verified text messages through a command line interface. A **Diffie-Hellman ratchet** ensures keys are changed every time the direction of communication switches. The following cryptographic parameters are used – Key Exchange: Diffie-Hellman and HKDF. Encryption: 256-bit AES in CBC mode with random IV. Message Authentication: HMAC-SHA256 with salt.
+The most fundamental problem in cryptography is that of establishing a **secure communication channel** that provides both message confidentiality and integrity. This program accomplishes just that. Two clients connect to each other to exchange encrypted and verified text messages through a command line interface. A **Diffie-Hellman ratchet** ensures keys are changed every time the direction of communication switches. The following cryptographic parameters are used – Key Exchange: Diffie-Hellman and HKDF. Encryption: 256-bit AES in CBC mode with random IV. Message Authentication: HMAC-SHA256 with salt.
 
 **Timeline:** January - May 2023  
 **Technologies:** C++, CryptoPP, Docker, Visual Studio
