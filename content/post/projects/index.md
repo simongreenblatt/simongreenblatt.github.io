@@ -2,7 +2,7 @@
 title: Projects
 description: Programming and computer science projects
 slug: projects
-date: 2023-05-09 00:00:00+0000
+date: 2023-05-11 00:00:00+0000
 toc: true
 #image: cover.jpg
 #categories:
@@ -24,16 +24,16 @@ toc: true
 
 ![ ](pir.jpg)
 
-As we outsource more of our data storage to cloud services, we need to make sure our data is not only encrypted but that the way in which we access it doesn't reveal unnecessary information to the server. This private information retrieval scheme uses **somewhat homomorphic encryption** to allow a client to retrieve database entries without the server learning which entry is being sent. Data is stored in a **hypercube data store** whose dimension and side length optimize the tradeoff between communication and computation. Using the BFV homomorphic encryption protocol, the server computes an encryption for the entry specified by the client's selection vector.
+As we outsource more of our data storage to cloud services, we need to make sure it's not only encrypted, but that the way in which we access it doesn't reveal unnecessary information to the server. This private information retrieval scheme uses **somewhat homomorphic encryption** to allow a client to retrieve database entries without the server learning which entry is being sent. Data is stored in a **hypercube data store** whose dimension and side length optimize the tradeoff between communication and computation. Using the BFV homomorphic encryption protocol, the server computes an encryption for the entry specified by the client's selection vector.
 
 **Timeline:** January - May 2023  
 **Technologies:** C++, CryptoPP, Microsoft SEAL
 
-## Secure Communication Framework
+## Secure Two-Party Computation
 
-![ ](signal.jpg)
+![ ](yao.jpg)
 
-The most fundamental problem in cryptography is that of establishing a **secure communication channel** that provides both message confidentiality and integrity. This program accomplishes just that. Two clients connect to each other to exchange encrypted and verified text messages through a command line interface. A **Diffie-Hellman ratchet** ensures keys are changed every time the direction of communication switches. The following cryptographic parameters are used – Key Exchange: Diffie-Hellman and HKDF. Encryption: 256-bit AES in CBC mode with random IV. Message Authentication: HMAC-SHA256 with salt.
+By making use of **Yao's Garbled Circuits**, this program allows two parties to jointly compute any Boolean circuit without learning the other party's inputs. The garbler samples random labels for each wire and generates a garbled circuit for each gate. The evaluator runs an **Oblivious Transfer** protocol to retrieve the labels corresponding to their inputs, and then evaluates the circuit gate by gate. Circuits are specified using Bristol Format which consists of AND, XOR, and NOT gates. This program showcases how secure MPC enables joint analysis of distributed data while preserving its privacy.
 
 **Timeline:** January - May 2023  
 **Technologies:** C++, CryptoPP, Docker, Visual Studio
@@ -46,6 +46,15 @@ This client-server authentication platform leverages **digital signatures** in o
 
 **Timeline:** January - May 2022  
 **Technologies:** C++, Docker, Visual Studio, SQLite
+
+## Secure Communication Framework
+
+![ ](signal.jpg)
+
+The most fundamental problem in cryptography is that of establishing a **secure communication channel** that provides both message confidentiality and integrity. This program accomplishes just that. Two clients connect to each other to exchange encrypted and verified text messages through a command line interface. A **Diffie-Hellman ratchet** ensures keys are changed every time the direction of communication switches. The following cryptographic parameters are used – Key Exchange: Diffie-Hellman and HKDF. Encryption: 256-bit AES in CBC mode with random IV. Message Authentication: HMAC-SHA256 with salt.
+
+**Timeline:** January - May 2023  
+**Technologies:** C++, CryptoPP, Docker, Visual Studio
 
 ## Thread Safety and Synchronization
 
@@ -60,7 +69,7 @@ We like threads to cooperate by using shared memory. But what happens when two t
 
 ![ ](structures.jpg)
 
-This **Java** library of over 30 data structures and algorithms demonstrates the importance of **algorithmic complexity** in relation to the choice of data structures. In it, I've coded linked-list and array-based variations of stacks, queues, trees, lists, graphs, hash tables, and other structures. I've also included implementations of related algorithms such as Quicksort, Breadth-first search, Dijkstra's Algorithm, tree traversal algorithms, and many others. This project was built using the principles of Object-Oriented Programming and does not rely on existing Java libraries.
+This Java library of over 30 data structures and algorithms demonstrates the importance of **algorithmic complexity** in relation to the choice of data structures. In it, I've coded linked-list and array-based variations of stacks, queues, trees, lists, graphs, hash tables, and other structures. I've also included implementations of related algorithms such as Quicksort, Breadth-first search, Dijkstra's Algorithm, tree traversal algorithms, and many others. This project was built using the principles of **Object-Oriented Programming** and does not rely on existing Java libraries.
 
 **Timeline:** January - May 2021  
 **Technologies:** Java, Eclipse, Jenkins, GitHub
