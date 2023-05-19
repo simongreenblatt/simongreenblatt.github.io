@@ -42,7 +42,7 @@ By making use of **Yao's Garbled Circuits**, this program allows two parties to 
 
 ![ ](vote.jpg)
 
-Four parties come together to form a secure voting platform: Arbiters generate election parameters and decrypt the final result, a Registrar issues voting certificates, a Tallyer checks that votes are valid, and the voters themselves cast the votes. I use non-interactive **Zero-Knowledge Proofs** to establish a framework of trust by ensuring that votes and generated correctly, and that the final results are honest. Votes are encrypted using additive homomorphic encryption and partially decrypted using **threshold ElGamal** before they can be combined to retrieve the final result.
+Four parties come together to form a secure voting platform: Arbiters generate election parameters and decrypt the final result, a Registrar issues voting certificates, a Tallyer checks that votes are valid, and the voters themselves cast the votes. I use non-interactive **Zero-Knowledge Proofs** to establish a framework of trust by ensuring that votes are generated correctly, and that the final results are honest. Votes are encrypted using additive homomorphic encryption and partially decrypted using **threshold ElGamal** before they're combined to retrieve the final result.
 
 **Timeline:** January - May 2023  
 **Technologies:** C++, CryptoPP, Docker, Visual Studio
