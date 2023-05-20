@@ -24,7 +24,7 @@ toc: true
 
 ![ ](cloud.jpg)
 
-Through this API, users can authenticate themselves with a server, upload and download files, and share files with other users before revoking their access. From **threat modeling** to security analysis, this project considers principles of **secure software development** such as security by design and the principle of least privilege.
+Through this API, users can authenticate themselves with a server to upload and download files that are stored and transmitted using end-to-end encryption. Users can also share files with other users, revoke their access, and download shared files. Under the assumption that an adversary can eavesdrop network traffic and modify the dataserver, this API still manages to provide confidentiality, integrity, and efficiency. From **threat modeling** to security analysis, this project considers principles of **secure software development** such as defense in depth and security by design.
 
 **Timeline:** April - May 2023  
 **Technologies:** Python, GitHub, Visual Studio
