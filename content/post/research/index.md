@@ -16,16 +16,6 @@ My undergraduate Mathematics Capstone project puts forth the theory of **lattice
 **Keywords:** Lattices, Post-quantum Cryptography, Lattice Reduction  
 **Link:** [A Mathematical Introduction to Lattice-Based Cryptography](lattices.pdf)
 
-## Diffie-Hellman Key Exchange
-
-![ ](exchange.jpg)
-
-The seminal 1976 paper *New Directions in Cryptography* by Whitfield Diffie and Martin Hellman laid out the foundation for public-key cryptography. This collaborative paper examines the mathematics behind the Diffie-Hellman Key Exchange. We provide an algebraic background to the **discrete logarithm problem** and a concrete example of the algorithm in action. Additionally, we discuss computational difficulties in implementing it and explain how the **Binary Exponential Algorithm** solves these problems.
-
-**Timeline:** January - May 2021  
-**Keywords:** Key-exchange, Discrete Logarithm, Binary Exponential Algorithm  
-**Link:** [The Diffie-Hellman Key Exchange](key_exchange.pdf)
-
 ## Usability of Authentication
 
 ![ ](logos.jpg)
@@ -45,3 +35,13 @@ The U.S. government has adopted a voluntary, nonregulatory, incentive-based fram
 **Timeline:** September - December 2022  
 **Keywords:** Critical Infrastructure, NIST Cybersecurity Framework, CISA, Law  
 **Link:** [An Agenda for Improving the Cybersecurity of Critical Infrastructure](critical_infrastructure.pdf)
+
+## Diffie-Hellman Key Exchange
+
+![ ](exchange.jpg)
+
+The seminal 1976 paper *New Directions in Cryptography* by Whitfield Diffie and Martin Hellman laid out the foundation for public-key cryptography. This collaborative paper examines the mathematics behind the Diffie-Hellman Key Exchange. We provide an algebraic background to the **discrete logarithm problem** and a concrete example of the algorithm in action. Additionally, we discuss computational difficulties in implementing it and explain how the **Binary Exponential Algorithm** solves these problems.
+
+**Timeline:** January - May 2021  
+**Keywords:** Key-exchange, Discrete Logarithm, Binary Exponential Algorithm  
+**Link:** [The Diffie-Hellman Key Exchange](key_exchange.pdf)

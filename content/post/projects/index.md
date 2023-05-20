@@ -2,7 +2,7 @@
 title: Projects
 description: Programming and computer science projects
 slug: projects
-date: 2023-05-11 00:00:00+0000
+date: 2023-05-20 00:00:00+0000
 toc: true
 #image: cover.jpg
 #categories:
@@ -20,13 +20,22 @@ toc: true
 
 ---
 
+## Secure File Storage
+
+![ ](cloud.jpg)
+
+Through this API, users can authenticate themselves with a server, upload and download files, and share files with other users before revoking their access. From **threat modeling** to security analysis, this project considers principles of **secure software development** such as security by design and the principle of least privilege.
+
+**Timeline:** April - May 2023  
+**Technologies:** Python, GitHub, Visual Studio
+
 ## Private Information Retrieval
 
 ![ ](pir.jpg)
 
 As we outsource more of our data storage to cloud services, we need to make sure it's not only encrypted, but that the way in which we access it doesn't reveal unnecessary information to the server. This private information retrieval scheme uses **somewhat homomorphic encryption** to allow a client to retrieve database entries without the server learning which entry is being sent. Data is stored in a **hypercube data store** whose dimension and side length optimize the tradeoff between communication and computation. Using the BFV homomorphic encryption protocol, the server computes an encryption for the entry specified by the client's selection vector.
 
-**Timeline:** January - May 2023  
+**Timeline:** April 2023  
 **Technologies:** C++, CryptoPP, Microsoft SEAL
 
 ## Secure Two-Party Computation
@@ -35,7 +44,7 @@ As we outsource more of our data storage to cloud services, we need to make sure
 
 By making use of **Yao's Garbled Circuits**, this program allows two parties to jointly compute any Boolean circuit without learning the other party's inputs. The garbler samples random labels for each wire and generates a garbled circuit for each gate. The evaluator runs an **Oblivious Transfer** protocol to retrieve the labels corresponding to their inputs, and then evaluates the circuit gate by gate. Circuits are specified using Bristol Format which consists of AND, XOR, and NOT gates. This program showcases how secure MPC enables joint analysis of distributed data while preserving its privacy.
 
-**Timeline:** January - May 2023  
+**Timeline:** March - April 2023  
 **Technologies:** C++, CryptoPP, Docker, Visual Studio
 
 ## Anonymous Online Voting
@@ -44,7 +53,7 @@ By making use of **Yao's Garbled Circuits**, this program allows two parties to 
 
 Four parties come together to form a secure voting platform: Arbiters generate election parameters and decrypt the final result, a Registrar issues voting certificates, a Tallyer checks that votes are valid, and the voters themselves cast the votes. I use non-interactive **Zero-Knowledge Proofs** to establish a framework of trust by ensuring that votes are generated correctly, and that the final results are honest. Votes are encrypted using additive homomorphic encryption and partially decrypted using **threshold ElGamal** before they're combined to retrieve the final result.
 
-**Timeline:** January - May 2023  
+**Timeline:** March 2023  
 **Technologies:** C++, CryptoPP, Docker, Visual Studio
 
 ## Public Key Infrastructure
@@ -53,7 +62,7 @@ Four parties come together to form a secure voting platform: Arbiters generate e
 
 This client-server authentication platform leverages **digital signatures** in order for a central verification authority to issue certificates that authenticate users' public keys. Clients log in to a server using a password and two-factor authentication response to obtain a certificate that verifies their identity when communicating with other users. Passwords are hashed using a salt and pepper before being stored in a SQL database. This program achieves an authenticated key exchange that is secure against **man-in-the-middle attacks**.
 
-**Timeline:** January - May 2022  
+**Timeline:** February - March 2023  
 **Technologies:** C++, Docker, Visual Studio, SQLite
 
 ## Secure Communication Framework
@@ -62,7 +71,7 @@ This client-server authentication platform leverages **digital signatures** in o
 
 The most fundamental problem in cryptography is that of establishing a **secure communication channel** that provides both message confidentiality and integrity. This program accomplishes just that. Two clients connect to each other to exchange encrypted and verified text messages through a command line interface. A **Diffie-Hellman ratchet** ensures keys are changed every time the direction of communication switches. The following cryptographic parameters are used – Key Exchange: Diffie-Hellman and HKDF. Encryption: 256-bit AES in CBC mode with random IV. Message Authentication: HMAC-SHA256 with salt.
 
-**Timeline:** January - May 2023  
+**Timeline:** February 2023  
 **Technologies:** C++, CryptoPP, Docker, Visual Studio
 
 ## Thread Safety and Synchronization
