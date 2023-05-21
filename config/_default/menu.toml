@@ -20,6 +20,13 @@ url = "/p/projects"
 [main.params]
 icon = "file"
 newtab = false
+[[main]]
+identifier = "exercises"
+name = "Exercises"
+url = "/p/exercises"
+[main.params]
+icon = "terminal"
+newtab = false
 
 [[social]]
 identifier = "email"
