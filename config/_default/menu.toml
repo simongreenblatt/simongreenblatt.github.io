@@ -36,3 +36,11 @@ url = "/p/about/resume_cyber.pdf"
 
 [social.params]
 icon = "info"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/simon-greenblatt"
+
+[social.params]
+icon = "linkedin"
