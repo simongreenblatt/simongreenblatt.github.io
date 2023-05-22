@@ -30,7 +30,7 @@ I took advantage of a poorly configured website to perform unauthorized actions 
 
 ![ ](crypto.jpg)
 
-Under construction
+Did you know that until 2020 Zoom meetings were encrypted using AES in ECB mode? My first target for these attacks was an encrypted database of student grades whose format and layout was known. By exploiting the weaknesses of ECB mode and using **statistical correlation**, I was able to learn information about student's grades. I also performed a brute force attack to **recover the encryption key** of an encryption scheme that uses a 16-bit initialization vector. Finally, I created a Python script to recover the keys of a double encryption scheme by performing a meet-in-the-middle attack on a midway ciphertext.
 
 **Timeline:** February 2023  
 **Attacks:** Statistical Cryptanalysis, Meet-in-the-Middle, Brute Force  
