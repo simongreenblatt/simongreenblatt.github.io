@@ -2,7 +2,7 @@
 title: Profile
 description: Educational background and contact information
 slug: about
-date: 2023-05-20 00:00:00+0000
+date: 2023-05-22 00:00:00+0000
 toc: false
 #image: cover.jpg
 #categories:
@@ -34,6 +34,7 @@ I have experience with secure software development, computer architecture, and n
 - Supplementary high school experience with the [North Carolina School of Science and Mathematics](https://www.ncssm.edu/) Online Program
 
 E-mail: [scamposg@cs.brown.edu](mailto:scamposg@cs.brown.edu)  
+LinkedIn: [Link](https://www.linkedin.com/in/simon-greenblatt)  
 Resume: [Link](resume_cyber.pdf)
 
 ![ ](climb.jpg)  
