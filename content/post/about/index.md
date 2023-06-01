@@ -33,6 +33,10 @@ I have experience with secure software development, computer architecture, and n
 - Study abroad program at [Università di Pisa](https://www.unipi.it/), *12/2021*
 - Supplementary high school experience with the [North Carolina School of Science and Mathematics](https://www.ncssm.edu/) Online Program
 
+#### Work Experience
+
+- Cybersecurity Intern at [Fermilab National Accelerator Laboratory](https://www.fnal.gov/) through the U.S. Department of Energy's OMNI Technology Alliance Internship Program, *Summer 2023*
+
 E-mail: [scamposg@cs.brown.edu](mailto:scamposg@cs.brown.edu)  
 LinkedIn: [Link](https://www.linkedin.com/in/simon-greenblatt)  
 Resume: [Link](resume_cyber.pdf)
