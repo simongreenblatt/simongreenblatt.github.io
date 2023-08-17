@@ -2,7 +2,7 @@
 title: Profile
 description: Educational background and contact information
 slug: about
-date: 2023-06-01 00:00:00+0000
+date: 2023-08-16 00:00:00+0000
 toc: false
 #image: cover.jpg
 #categories:
@@ -35,7 +35,7 @@ I have experience with secure software development, computer architecture, and n
 
 #### Work Experience
 
-- Cybersecurity Intern at [Fermilab National Accelerator Laboratory](https://www.fnal.gov/) through the U.S. Department of Energy's OMNI Technology Alliance Internship Program, *Summer 2023*
+- Cybersecurity Intern at [Fermi National Accelerator Laboratory](https://www.fnal.gov/) through the U.S. Department of Energy's OMNI Technology Alliance Internship Program, *Summer 2023*
 
 E-mail: [scamposg@cs.brown.edu](mailto:scamposg@cs.brown.edu)  
 LinkedIn: [Link](https://www.linkedin.com/in/simon-greenblatt)  

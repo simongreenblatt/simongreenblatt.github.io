@@ -2,7 +2,7 @@
 title: Exercises
 description: Exercises in hacking and exploitation
 slug: exercises
-date: 2023-08-16 00:00:00+0000
+date: 2023-08-15 00:00:00+0000
 toc: true
 ---
 
