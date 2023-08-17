@@ -2,9 +2,19 @@
 title: Exercises
 description: Exercises in hacking and exploitation
 slug: exercises
-date: 2023-05-21 00:00:00+0000
+date: 2023-08-16 00:00:00+0000
 toc: true
 ---
+
+## Participating in a Hackathon
+
+![ ](cyberfire.jpg)
+
+I participated in the 2023 OMNI Fire training and competition. This event included two days of lab-heavy training on cybersecurity tools and topics including network archeology, host forensics, and **malware analysis**. The two-day competition involved solving puzzles related to password cracking, threat hunting, protocol reverse engineering, and other cybersecurity categories. I helped my team by recovering hidden files using steganographic tools and **reconstructing a simulated incident** from payload delivery, through persistence, to data exfiltration.
+
+**Timeline:** August 2023  
+**Techniques:** File Carving, Packet Inspection, Forensic Analysis  
+**Technologies:** Autopsy, Hashcat, Wireshark, Python, Foremost
 
 ## Bypassing Access Controls
 
