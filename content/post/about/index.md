@@ -2,7 +2,7 @@
 title: Profile
 description: Educational background and contact information
 slug: about
-date: 2023-08-16 00:00:00+0000
+date: 2024-02-13 00:00:00+0000
 toc: false
 #image: cover.jpg
 #categories:
@@ -22,7 +22,7 @@ toc: false
 
 Hi! I'm glad you've taken the time to visit my website and that you're interested in learning more about me.
 
-I'm currently a Master's student at [Brown University](https://www.brown.edu/) (one of the eight **Ivy League** private research universities) studying **Cybersecurity**. I'm enrolled in the Computer Science track which focuses on the technical and computing aspects of Cybersecurity, while gaining a complementary perspective on human factors and law. I previously completed my undergraduate studies at [North Carolina State University](https://www.ncsu.edu/) where I graduated **summa cum laude** in Mathematics with a minor in Computer Programming.
+I'm currently a Master's student at [Brown University](https://www.brown.edu/) (one of the eight **Ivy League** private research universities) studying **Cybersecurity**. I'm enrolled in the Computer Science track which focuses on the technical and computational aspects of Cybersecurity, while gaining a complementary perspective on human factors and law. I previously completed my undergraduate studies at [North Carolina State University](https://www.ncsu.edu/) where I graduated **summa cum laude** in Mathematics with a minor in Computer Programming.
 
 I have experience with secure software development, computer architecture, and networking, as well as mathematical and applied cryptography. My main areas of interest are **Computer Security** and **Cryptography** in order to protect networks, devices, and data. My goal is to specialize in penetration testing and the management of IT systems to solve complex, real-world security problems.
 
@@ -37,7 +37,7 @@ I have experience with secure software development, computer architecture, and n
 
 - Cybersecurity Intern at [Fermi National Accelerator Laboratory](https://www.fnal.gov/) through the U.S. Department of Energy's OMNI Technology Alliance Internship Program, *Summer 2023*
 
-E-mail: [scamposg@cs.brown.edu](mailto:scamposg@cs.brown.edu)  
+E-mail: [simongreenblatt@gmail.com](mailto:simongreenblatt@gmail.com)  
 LinkedIn: [Link](https://www.linkedin.com/in/simon-greenblatt)  
 Resume: [Link](resume_cyber.pdf)
 
