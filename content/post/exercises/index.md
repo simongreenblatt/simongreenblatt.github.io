@@ -2,9 +2,19 @@
 title: Exercises
 description: Exercises in hacking and exploitation
 slug: exercises
-date: 2023-08-15 00:00:00+0000
+date: 2024-02-13 00:00:00+0000
 toc: true
 ---
+
+## Developing Shellcode
+
+![ ](shell.jpg)
+
+By using disassembly and debug tools, I **reverse engineered a binary** that was hardened using non-executable memory and full ASLR. This binary contained both a stack-based buffer overflow and a format string vulnerability which allowed me to leak memory addresses in order to bypass ASLR. I then **developed a JIT-ROP payload** that hijacked the control flow of the program and initiated a ret2libc attack. The purpose of this capture-the-flag exercise was to pass the value of a hidden symbol as an argument into a function. I then successfully restored the execution of the program by cleaning up any trashed registers.
+
+**Timeline:** September - December 2024  
+**Techniques:** Stack Pivoting, ret2libc, JIT-ROP  
+**Technologies:** x86 Assembly, ROPgadget, gdb, objdump
 
 ## Participating in a Hackathon
 
