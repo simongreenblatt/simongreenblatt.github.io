@@ -35,7 +35,8 @@ I have experience with secure software development, computer architecture, and n
 
 #### Work Experience
 
-- Cybersecurity Intern at [Fermi National Accelerator Laboratory](https://www.fnal.gov/) through the U.S. Department of Energy's OMNI Technology Alliance Internship Program, *Summer 2023*
+- Cybersecurity Intern at [Oak Ridge National Laboratory](https://www.ornl.gov/), *Summer 2024*
+- Cybersecurity Intern at [Fermi National Accelerator Laboratory](https://www.fnal.gov/), *Summer 2023*
 
 E-mail: [simongreenblatt@gmail.com](mailto:simongreenblatt@gmail.com)  
 LinkedIn: [Link](https://www.linkedin.com/in/simon-greenblatt)  
