@@ -2,15 +2,26 @@
 title: Research
 description: Research papers on cryptography and cybersecurity
 slug: research
-date: 2023-01-17 00:00:00+0000
+date: 2024-05-16 00:00:00+0000
 toc: true
 ---
+
+## Data-Only Attacks
+
+![ ](uml.png)
+
+As software defense mechanisms like ASLR and CFI become more common, it's increasingly difficult to hijack control flow and carry out a code reuse attack. My Master's capstone project explores a subset of **data-only attacks** known as Counterfeit Objected-Oriented Programming (COOP) which are unaffected by these defenses. In this paper I introduce vlogin: a vulnerable program that demonstrates the principles of COOP by performing a data-only **privilege escalation** attack. I explain the design and vulnerabilities of vlogin and walkthrough the reverse engineering process as well as the attack approach.
+
+**Timeline:** March - May 2024  
+**Keywords:** Counterfeit Object-Oriented Programming, Data-Only Attacks, Memory Corruption  
+**Link:** [vlogin: A Prototype on Counterfeit Object-Oriented Programming and Data-Only Attacks](data-only_attacks.pdf)  
+**Link to Source Code:** [vlogin.zip](vlogin.zip)
 
 ## Lattice-Based Cryptography
 
 ![ ](lattice.jpg)
 
-My undergraduate Mathematics Capstone project puts forth the theory of **lattices** as a viable source of **quantum-resistant** cryptographic problems. In it, I discuss the GGH and NTRU lattice-based cryptosystems as well as their mathematical background. I also introduce the LLL lattice reduction algorithm as a tool for **cryptanalysis** on lattices. As part of this project, I coded a version of the LLL algorithm (in the C language) and presented my results to the Mathematics Honors Program at my university.
+My undergraduate Mathematics capstone project puts forth the theory of **lattices** as a viable source of **quantum-resistant** cryptographic problems. In it, I discuss the GGH and NTRU lattice-based cryptosystems as well as their mathematical background. I also introduce the LLL lattice reduction algorithm as a tool for **cryptanalysis** on lattices. As part of this project, I coded a version of the LLL algorithm (in the C language) and presented my results to the Mathematics Honors Program at my university.
 
 **Timeline:** January - May 2021  
 **Keywords:** Lattices, Post-quantum Cryptography, Lattice Reduction  
