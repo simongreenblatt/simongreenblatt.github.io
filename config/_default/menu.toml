@@ -31,7 +31,7 @@ newtab = false
 [[social]]
 identifier = "email"
 name = "E-mail"
-url = "mailto:scamposg@cs.brown.edu"
+url = "mailto:simongreenblatt@gmail.com"
 
 [social.params]
 icon = "email"
