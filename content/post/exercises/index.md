@@ -10,9 +10,9 @@ toc: true
 
 ![ ](shell.jpg)
 
-By using disassembly and debug tools, I **reverse engineered a binary** that was hardened using non-executable memory and full ASLR. This binary contained both a stack-based buffer overflow and a format string vulnerability which allowed me to leak memory addresses in order to bypass ASLR. I then **developed a JIT-ROP payload** that hijacked the control flow of the program and initiated a ret2libc attack. The purpose of this capture-the-flag exercise was to pass the value of a hidden symbol as an argument into a function. I then successfully restored the execution of the program by cleaning up any trashed registers.
+Using disassembly and debug tools, I **reverse engineered a binary** that was hardened using non-executable memory and full ASLR. This binary contained both a stack-based buffer overflow and a format string vulnerability which allowed me to leak memory addresses in order to bypass ASLR. I then **developed a JIT-ROP payload** that hijacked the control flow of the program and initiated a ret2libc attack. The purpose of this capture-the-flag exercise was to pass the value of a hidden symbol as an argument into a function. I then successfully restored the execution of the program by cleaning up any trashed registers.
 
-**Timeline:** September - December 2024  
+**Timeline:** September - December 2023  
 **Techniques:** Stack Pivoting, ret2libc, JIT-ROP  
 **Technologies:** x86 Assembly, ROPgadget, gdb, objdump
 
