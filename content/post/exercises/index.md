@@ -2,9 +2,21 @@
 title: Exercises
 description: Exercises in hacking and exploitation
 slug: exercises
-date: 2024-02-13 00:00:00+0000
+date: 2024-08-28 00:00:00+0000
 toc: true
 ---
+
+## Creating an Exploitation
+
+![ ](modem.jpg)
+
+In April 2021, Tenable disclosed CVE-2021-20090, a path traversal vulnerability in the firmware of a Wi-Fi module produced by Arcadyan. This firmware is present in the HughesNet HT2000W satellite modem for which I performed a **security assessment**. My process involved creating a hardware and software bill of materials, reverse engineering the firmware, and turning this vulnerability into a full **exploitation chain**. I implemented my exploit as a Python script and a Metasploit module which reset the administrator password of the web configuration portal. My Python script has since been published on Exploit-DB.
+
+**Timeline:** June - August 2024  
+**Techniques:** Path Traversal, Firmware Extraction, Reverse Engineering  
+**Technologies:** Ghidra, Burp Suite, Wireshark, Python, Ruby  
+**Exploits:** ![GitHub](https://github.com/simongreenblatt/HT2000W-Exploit/), ![Exploit-DB](https://www.exploit-db.com/exploits/52073)  
+**Demo Video:** ![YouTube](https://www.youtube.com/watch?v=CdzE0jAhwwY)
 
 ## Developing Shellcode
 
