@@ -16,7 +16,8 @@ In April 2021, Tenable disclosed CVE-2021-20090, a path traversal vulnerability 
 **Techniques:** Path Traversal, Firmware Extraction, Reverse Engineering  
 **Technologies:** Ghidra, Burp Suite, Wireshark, Python, Ruby  
 **Exploits:** [GitHub](https://github.com/simongreenblatt/HT2000W-Exploit/), [Exploit-DB](https://www.exploit-db.com/exploits/52073)  
-**Video Demo:** [YouTube](https://www.youtube.com/watch?v=CdzE0jAhwwY)
+**Video Demo:** [YouTube](https://www.youtube.com/watch?v=CdzE0jAhwwY)  
+**Poster:** [Link](modem_poster.pdf)
 
 ## Developing Shellcode
 
