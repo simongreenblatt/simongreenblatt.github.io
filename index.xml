@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Simon Greenblatt</title><link>https://simongreenblatt.github.io/</link><description>Recent content on Simon Greenblatt</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://simongreenblatt.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Profile</title><link>https://simongreenblatt.github.io/p/about/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate><guid>https://simongreenblatt.github.io/p/about/</guid><description>&lt;p>Hi! I&amp;rsquo;m glad you&amp;rsquo;ve taken the time to visit my website and that you&amp;rsquo;re interested in learning more about me.&lt;/p>
+&lt;p>I&amp;rsquo;m currently working as a Commercial Security Analyst at &lt;a class="link" href="https://www.varonis.com/" target="_blank" rel="noopener"
+>Varonis&lt;/a>, delivering threat detection and incident response solutions to customers. I recently completed my Master&amp;rsquo;s in &lt;strong>Cybersecurity&lt;/strong> at &lt;a class="link" href="https://www.brown.edu/" target="_blank" rel="noopener"
+>Brown University&lt;/a>, one of the eight &lt;strong>Ivy League&lt;/strong> private research universities in the northeastern United States. I was enrolled in the Computer Science track which focuses on the technical and computational aspects of cybersecurity while gaining a complementary perspective on organizational management and law. I previously completed my undergraduate studies at &lt;a class="link" href="https://www.ncsu.edu/" target="_blank" rel="noopener"
+>North Carolina State University&lt;/a> where I graduated &lt;strong>summa cum laude&lt;/strong> in Mathematics with a Minor in Computer Programming and an emphasis on cryptography. I also hold the Security+ certification which validates baseline skills for IT security roles.&lt;/p>
+&lt;p>I have experience with secure software development, computer architecture, and hacking, as well as mathematical and applied cryptography. My main areas of interest are software security, cryptography, and &lt;strong>penetration testing&lt;/strong>. My goal is to specialize in penetration testing to help mitigate risk in computer systems by identifying vulnerabilities and evaluating their security.&lt;br>
+Feel free to take a look at some of the projects, research papers, and hacking exercises I&amp;rsquo;ve worked on.&lt;/p>
+&lt;h4 id="work-experience">Work Experience
+&lt;/h4>&lt;ul>
+&lt;li>Commercial Security Analyst at &lt;a class="link" href="https://www.varonis.com/" target="_blank" rel="noopener"
+>Varonis Systems&lt;/a>, &lt;em>October 2024 - Present&lt;/em>&lt;/li>
+&lt;li>Managed Data Detection and Response Security Analyst at &lt;a class="link" href="https://www.varonis.com/" target="_blank" rel="noopener"
+>Varonis Systems&lt;/a>, &lt;em>August 2024 - September 2024&lt;/em>&lt;/li>
+&lt;li>Cybersecurity Intern at &lt;a class="link" href="https://www.ornl.gov/" target="_blank" rel="noopener"
+>Oak Ridge National Laboratory&lt;/a>, &lt;em>Summer 2024&lt;/em>&lt;/li>
+&lt;li>Cybersecurity Intern at &lt;a class="link" href="https://www.fnal.gov/" target="_blank" rel="noopener"
+>Fermi National Accelerator Laboratory&lt;/a>, &lt;em>Summer 2023&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h4 id="education">Education
+&lt;/h4>&lt;ul>
+&lt;li>M.S. in Cybersecurity (Computer Science track) at &lt;a class="link" href="https://www.brown.edu/" target="_blank" rel="noopener"
+>Brown University&lt;/a>, &lt;em>05/2024&lt;/em>&lt;/li>
+&lt;li>B.S. in Mathematics with Minor in Computer Programing at &lt;a class="link" href="https://www.ncsu.edu/" target="_blank" rel="noopener"
+>North Carolina State University&lt;/a>, &lt;em>05/2022&lt;/em>&lt;/li>
+&lt;li>Study abroad program at &lt;a class="link" href="https://www.unipi.it/" target="_blank" rel="noopener"
+>Università di Pisa&lt;/a>, &lt;em>12/2021&lt;/em>&lt;/li>
+&lt;li>Supplementary high school experience with the &lt;a class="link" href="https://www.ncssm.edu/" target="_blank" rel="noopener"
+>North Carolina School of Science and Mathematics&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>E-mail: &lt;a class="link" href="mailto:simongreenblatt@gmail.com" >simongreenblatt@gmail.com&lt;/a>&lt;br>
+LinkedIn: &lt;a class="link" href="https://www.linkedin.com/in/simon-greenblatt" target="_blank" rel="noopener"
+>Link&lt;/a>&lt;br>
+Resume: &lt;a class="link" href="resume_cyber.pdf" >Link&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://simongreenblatt.github.io/p/about/climb.jpg"
+width="400"
+height="400"
+srcset="https://simongreenblatt.github.io/p/about/climb_hu15328695848076685871.jpg 480w, https://simongreenblatt.github.io/p/about/climb_hu10568757077592982272.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;br>
+I like to climb volcanos!&lt;/p></description></item><item><title>Exercises</title><link>https://simongreenblatt.github.io/p/exercises/</link><pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate><guid>https://simongreenblatt.github.io/p/exercises/</guid><description>&lt;h2 id="creating-an-exploitation">Creating an Exploitation
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/exercises/modem.jpg"
+width="350"
+height="306"
+srcset="https://simongreenblatt.github.io/p/exercises/modem_hu10275916833486532988.jpg 480w, https://simongreenblatt.github.io/p/exercises/modem_hu13303879478799501806.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="114"
+data-flex-basis="274px"
+>&lt;/p>
+&lt;p>In April 2021, Tenable disclosed CVE-2021-20090, a path traversal vulnerability in the firmware of a Wi-Fi module produced by Arcadyan. This firmware is present in the HughesNet HT2000W satellite modem for which I performed a &lt;strong>security assessment&lt;/strong>. My process involved creating a hardware and software bill of materials, reverse engineering the firmware, and turning this vulnerability into a full &lt;strong>exploitation chain&lt;/strong>. I implemented my exploit as a Python script and a Metasploit module which reset the administrator password of the web configuration portal. My Python script has since been published on Exploit-DB.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> June - August 2024&lt;br>
+&lt;strong>Techniques:&lt;/strong> Path Traversal, Firmware Extraction, Reverse Engineering&lt;br>
+&lt;strong>Technologies:&lt;/strong> Ghidra, Burp Suite, Wireshark, Python, Ruby&lt;br>
+&lt;strong>Exploits:&lt;/strong> &lt;a class="link" href="https://github.com/simongreenblatt/HT2000W-Exploit/" target="_blank" rel="noopener"
+>GitHub&lt;/a>, &lt;a class="link" href="https://www.exploit-db.com/exploits/52073" target="_blank" rel="noopener"
+>Exploit-DB&lt;/a>&lt;br>
+&lt;strong>Video Demo:&lt;/strong> &lt;a class="link" href="https://www.youtube.com/watch?v=CdzE0jAhwwY" target="_blank" rel="noopener"
+>YouTube&lt;/a>&lt;br>
+&lt;strong>Poster:&lt;/strong> &lt;a class="link" href="modem_poster.pdf" >Link&lt;/a>&lt;/p>
+&lt;h2 id="developing-shellcode">Developing Shellcode
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/exercises/shell.jpg"
+width="400"
+height="249"
+srcset="https://simongreenblatt.github.io/p/exercises/shell_hu16931507388776159023.jpg 480w, https://simongreenblatt.github.io/p/exercises/shell_hu16885852014583877120.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="160"
+data-flex-basis="385px"
+>&lt;/p>
+&lt;p>Using disassembly and debug tools, I &lt;strong>reverse engineered a binary&lt;/strong> that was hardened using non-executable memory and full ASLR. This binary contained both a stack-based buffer overflow and a format string vulnerability which allowed me to leak memory addresses in order to bypass ASLR. I then &lt;strong>developed a JIT-ROP payload&lt;/strong> that hijacked the control flow of the program and initiated a ret2libc attack. The purpose of this capture-the-flag exercise was to pass the value of a hidden symbol as an argument into a function. I then successfully restored the execution of the program by cleaning up any trashed registers.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> September - December 2023&lt;br>
+&lt;strong>Techniques:&lt;/strong> Stack Pivoting, ret2libc, JIT-ROP&lt;br>
+&lt;strong>Technologies:&lt;/strong> x86 Assembly, ROPgadget, gdb, objdump&lt;/p>
+&lt;h2 id="participating-in-a-hackathon">Participating in a Hackathon
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/exercises/cyberfire.jpg"
+width="400"
+height="249"
+srcset="https://simongreenblatt.github.io/p/exercises/cyberfire_hu16102274963652999349.jpg 480w, https://simongreenblatt.github.io/p/exercises/cyberfire_hu3387537523391096668.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="160"
+data-flex-basis="385px"
+>&lt;/p>
+&lt;p>I participated in the 2023 OMNI Fire training and competition. This event included two days of lab-heavy training on cybersecurity tools and topics including network archeology, host forensics, and &lt;strong>malware analysis&lt;/strong>. The two-day competition involved solving puzzles related to password cracking, threat hunting, protocol reverse engineering, and other cybersecurity categories. I helped my team by recovering hidden files using steganographic tools and &lt;strong>reconstructing a simulated incident&lt;/strong> from payload delivery, through persistence, to data exfiltration.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> August 2023&lt;br>
+&lt;strong>Techniques:&lt;/strong> File Carving, Packet Inspection, Forensic Analysis&lt;br>
+&lt;strong>Technologies:&lt;/strong> Autopsy, Hashcat, Wireshark, Python, Foremost&lt;/p>
+&lt;h2 id="bypassing-access-controls">Bypassing Access Controls
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/exercises/cameras.jpg"
+width="400"
+height="223"
+srcset="https://simongreenblatt.github.io/p/exercises/cameras_hu839295370368045815.jpg 480w, https://simongreenblatt.github.io/p/exercises/cameras_hu3732209896003463568.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="179"
+data-flex-basis="430px"
+>&lt;/p>
+&lt;p>In this exercise I break a fictitious autograding system to steal other student&amp;rsquo;s assignments and trick it into giving me a good grade. I use my knowledge of file permissions, &lt;strong>setuid Linux programs&lt;/strong>, and process isolation to create exploits that take advantage of vulnerabilities I found in the source code. As an exercise in &lt;strong>privilege escalation&lt;/strong>, I demonstrate how safelists, input sanitization, and the principle of least privilege can be used to prevent users from circumventing access controls.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> March - April 2023&lt;br>
+&lt;strong>Attacks:&lt;/strong> Arbitrary Code Execution, Symlink Traversal, Path Sanitization Bypass&lt;br>
+&lt;strong>Technologies:&lt;/strong> Golang, Bash script, Unix&lt;/p>
+&lt;h2 id="hacking-a-website">Hacking a Website
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/exercises/report.jpg"
+width="400"
+height="208"
+srcset="https://simongreenblatt.github.io/p/exercises/report_hu9535943530740113121.jpg 480w, https://simongreenblatt.github.io/p/exercises/report_hu11101552533598989365.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="192"
+data-flex-basis="461px"
+>&lt;/p>
+&lt;p>I took advantage of a poorly configured website to perform unauthorized actions on its web server. An unsanitaized username field allowed me to create a &lt;strong>SQL injection&lt;/strong> attack to bypass a password check on a login page; I used a Stored XSS attack to steal user&amp;rsquo;s cookies that had the HttpOnly flag set to false; By noticing that the website didn&amp;rsquo;t use CSRF tokens, I was able to perform actions on behalf of unsuspecting users who clicked a malicious link to an HTML file with a hidden POST request. My &lt;strong>vulnerability reports&lt;/strong> detail the discovery, impact, and mitigation of these and other attacks.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> February - March 2023&lt;br>
+&lt;strong>Attacks:&lt;/strong> SQL Injection, Stored XSS, CSRF, Insecure Direct Object Reference&lt;br>
+&lt;strong>Technologies:&lt;/strong> HTML, JavaScript, SQL, Burp Suite&lt;/p>
+&lt;h2 id="breaking-weak-cryptography">Breaking Weak Cryptography
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/exercises/crypto.jpg"
+width="400"
+height="230"
+srcset="https://simongreenblatt.github.io/p/exercises/crypto_hu6761799418737955537.jpg 480w, https://simongreenblatt.github.io/p/exercises/crypto_hu13703321084373982000.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="173"
+data-flex-basis="417px"
+>&lt;/p>
+&lt;p>Did you know that until 2020 Zoom meetings were encrypted using AES in ECB mode? My first target for these attacks was an encrypted database of student grades whose format and layout was known. By exploiting the weaknesses of ECB mode and using &lt;strong>statistical correlation&lt;/strong>, I was able to learn information about student&amp;rsquo;s grades. I also performed a brute force attack to &lt;strong>recover the encryption key&lt;/strong> of an encryption scheme that uses a 16-bit initialization vector. Finally, I created a Python script to recover the keys of a double encryption scheme by performing a meet-in-the-middle attack on a midway ciphertext.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> February 2023&lt;br>
+&lt;strong>Attacks:&lt;/strong> Statistical Cryptanalysis, Meet-in-the-Middle, Brute Force&lt;br>
+&lt;strong>Technologies:&lt;/strong> Python, Java&lt;/p>
+&lt;p>All attacks were performed in a safe and simulated environment.&lt;/p></description></item><item><title>Research</title><link>https://simongreenblatt.github.io/p/research/</link><pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate><guid>https://simongreenblatt.github.io/p/research/</guid><description>&lt;h2 id="data-only-attacks">Data-Only Attacks
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/research/uml.png"
+width="410"
+height="220"
+srcset="https://simongreenblatt.github.io/p/research/uml_hu16793228793201672858.png 480w, https://simongreenblatt.github.io/p/research/uml_hu10446765197087882183.png 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="186"
+data-flex-basis="447px"
+>&lt;/p>
+&lt;p>As software defense mechanisms like ASLR and CFI become more common, it&amp;rsquo;s increasingly difficult to hijack control flow and carry out a code reuse attack. My Master&amp;rsquo;s capstone project explores a subset of &lt;strong>data-only attacks&lt;/strong> known as Counterfeit Objected-Oriented Programming (COOP) which are unaffected by these defenses. In this paper I introduce vlogin: a vulnerable program that demonstrates the principles of COOP by performing a data-only &lt;strong>privilege escalation&lt;/strong> attack. I explain the design and vulnerabilities of vlogin and walkthrough the reverse engineering process as well as the attack approach.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> March - May 2024&lt;br>
+&lt;strong>Keywords:&lt;/strong> Counterfeit Object-Oriented Programming, Data-Only Attacks, Memory Corruption&lt;br>
+&lt;strong>Link:&lt;/strong> &lt;a class="link" href="data-only_attacks.pdf" >vlogin: A Prototype on Counterfeit Object-Oriented Programming and Data-Only Attacks&lt;/a>&lt;br>
+&lt;strong>Link to Source Code:&lt;/strong> &lt;a class="link" href="vlogin.zip" >vlogin.zip&lt;/a>&lt;/p>
+&lt;h2 id="lattice-based-cryptography">Lattice-Based Cryptography
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/research/lattice.jpg"
+width="400"
+height="252"
+srcset="https://simongreenblatt.github.io/p/research/lattice_hu4587223908976426851.jpg 480w, https://simongreenblatt.github.io/p/research/lattice_hu2020752654207536360.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>My undergraduate Mathematics capstone project puts forth the theory of &lt;strong>lattices&lt;/strong> as a viable source of &lt;strong>quantum-resistant&lt;/strong> cryptographic problems. In it, I discuss the GGH and NTRU lattice-based cryptosystems as well as their mathematical background. I also introduce the LLL lattice reduction algorithm as a tool for &lt;strong>cryptanalysis&lt;/strong> on lattices. As part of this project, I coded a version of the LLL algorithm (in the C language) and presented my results to the Mathematics Honors Program at my university.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> January - May 2021&lt;br>
+&lt;strong>Keywords:&lt;/strong> Lattices, Post-quantum Cryptography, Lattice Reduction&lt;br>
+&lt;strong>Link:&lt;/strong> &lt;a class="link" href="lattices.pdf" >A Mathematical Introduction to Lattice-Based Cryptography&lt;/a>&lt;/p>
+&lt;h2 id="usability-of-authentication">Usability of Authentication
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/research/logos.jpg"
+width="250"
+height="250"
+srcset="https://simongreenblatt.github.io/p/research/logos_hu243363485183103338.jpg 480w, https://simongreenblatt.github.io/p/research/logos_hu13513673948126945932.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>&amp;ldquo;You&amp;rsquo;re only as strong as your weakest link&amp;rdquo;. Too often companies rely on security training and password complexity requirements to ensure proper use of &lt;strong>authentication mechanisms&lt;/strong>. However, this overexposure to training bombardment can lead to security fatigue. This paper argues that usability is a better approach to achieving security goals while reducing friction in the user experience. I address usability in the context of &lt;strong>password management&lt;/strong>, multi-factor authentication, security questions, and mobile authentication.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> September - December 2022&lt;br>
+&lt;strong>Keywords:&lt;/strong> Usability, MFA, Password Management, Human Factors&lt;br>
+&lt;strong>Link:&lt;/strong> &lt;a class="link" href="usability.pdf" >A Usability Approach to The Authentication Problem&lt;/a>&lt;/p>
+&lt;h2 id="cybersecurity-of-critical-infrastructure">Cybersecurity of Critical Infrastructure
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/research/power.jpg"
+width="400"
+height="241"
+srcset="https://simongreenblatt.github.io/p/research/power_hu5703444266999359767.jpg 480w, https://simongreenblatt.github.io/p/research/power_hu5865816132102550175.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="165"
+data-flex-basis="398px"
+>&lt;/p>
+&lt;p>The U.S. government has adopted a voluntary, nonregulatory, incentive-based framework for protecting the various critical infrastructure sectors. This has led to a jumble of incentives and a general lack of legislation. I this paper, I lay out an agenda for increasing adoption of the &lt;strong>NIST Cybersecurity Framework&lt;/strong> and expanding the role of the CISA information sharing program while taking into account the &lt;strong>economic, social, and moral incentives&lt;/strong> at play. I also advocate for a reassessment of the definition for &amp;ldquo;commercial information technology product&amp;rdquo;.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> September - December 2022&lt;br>
+&lt;strong>Keywords:&lt;/strong> Critical Infrastructure, NIST Cybersecurity Framework, CISA, Law&lt;br>
+&lt;strong>Link:&lt;/strong> &lt;a class="link" href="critical_infrastructure.pdf" >An Agenda for Improving the Cybersecurity of Critical Infrastructure&lt;/a>&lt;/p>
+&lt;h2 id="diffie-hellman-key-exchange">Diffie-Hellman Key Exchange
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/research/exchange.jpg"
+width="300"
+height="414"
+srcset="https://simongreenblatt.github.io/p/research/exchange_hu4547218932822230522.jpg 480w, https://simongreenblatt.github.io/p/research/exchange_hu3188686268888394437.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="72"
+data-flex-basis="173px"
+>&lt;/p>
+&lt;p>The seminal 1976 paper &lt;em>New Directions in Cryptography&lt;/em> by Whitfield Diffie and Martin Hellman laid out the foundation for public-key cryptography. This collaborative paper examines the mathematics behind the Diffie-Hellman Key Exchange. We provide an algebraic background to the &lt;strong>discrete logarithm problem&lt;/strong> and a concrete example of the algorithm in action. Additionally, we discuss computational difficulties in implementing it and explain how the &lt;strong>Binary Exponential Algorithm&lt;/strong> solves these problems.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> January - May 2021&lt;br>
+&lt;strong>Keywords:&lt;/strong> Key-exchange, Discrete Logarithm, Binary Exponential Algorithm&lt;br>
+&lt;strong>Link:&lt;/strong> &lt;a class="link" href="key_exchange.pdf" >The Diffie-Hellman Key Exchange&lt;/a>&lt;/p></description></item><item><title>Projects</title><link>https://simongreenblatt.github.io/p/projects/</link><pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate><guid>https://simongreenblatt.github.io/p/projects/</guid><description>&lt;h2 id="secure-file-storage">Secure File Storage
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/cloud.jpg"
+width="400"
+height="260"
+srcset="https://simongreenblatt.github.io/p/projects/cloud_hu8172230790620940371.jpg 480w, https://simongreenblatt.github.io/p/projects/cloud_hu1554220403285576153.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="153"
+data-flex-basis="369px"
+>&lt;/p>
+&lt;p>Through this API, users can authenticate themselves with a server to upload and download files that are stored and transmitted using end-to-end encryption. Users can also share files with other users, revoke their access, and download shared files. Under the assumption that an adversary can eavesdrop network traffic and modify the dataserver, this API still manages to provide confidentiality, integrity, and efficiency. From &lt;strong>threat modeling&lt;/strong> to security analysis, this project considers principles of &lt;strong>secure software development&lt;/strong> such as defense in depth and security by design.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> April - May 2023&lt;br>
+&lt;strong>Technologies:&lt;/strong> Python, GitHub, Visual Studio&lt;/p>
+&lt;h2 id="private-information-retrieval">Private Information Retrieval
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/pir.jpg"
+width="425"
+height="290"
+srcset="https://simongreenblatt.github.io/p/projects/pir_hu2014811038976094890.jpg 480w, https://simongreenblatt.github.io/p/projects/pir_hu2872139877848184256.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="146"
+data-flex-basis="351px"
+>&lt;/p>
+&lt;p>As we outsource more of our data storage to cloud services, we need to make sure it&amp;rsquo;s not only encrypted, but that the way in which we access it doesn&amp;rsquo;t reveal unnecessary information to the server. This private information retrieval scheme uses &lt;strong>somewhat homomorphic encryption&lt;/strong> to allow a client to retrieve database entries without the server learning which entry is being sent. Data is stored in a &lt;strong>hypercube data store&lt;/strong> whose dimension and side length optimize the tradeoff between communication and computation. Using the BFV homomorphic encryption protocol, the server computes an encryption for the entry specified by the client&amp;rsquo;s selection vector.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> April 2023&lt;br>
+&lt;strong>Technologies:&lt;/strong> C++, CryptoPP, Microsoft SEAL&lt;/p>
+&lt;h2 id="secure-two-party-computation">Secure Two-Party Computation
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/yao.jpg"
+width="400"
+height="239"
+srcset="https://simongreenblatt.github.io/p/projects/yao_hu627264276098793920.jpg 480w, https://simongreenblatt.github.io/p/projects/yao_hu7989422581195037781.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="167"
+data-flex-basis="401px"
+>&lt;/p>
+&lt;p>By making use of &lt;strong>Yao&amp;rsquo;s Garbled Circuits&lt;/strong>, this program allows two parties to jointly compute any Boolean circuit without learning the other party&amp;rsquo;s inputs. The garbler samples random labels for each wire and generates a garbled circuit for each gate. The evaluator runs an &lt;strong>Oblivious Transfer&lt;/strong> protocol to retrieve the labels corresponding to their inputs, and then evaluates the circuit gate by gate. Circuits are specified using Bristol Format which consists of AND, XOR, and NOT gates. This program showcases how secure MPC enables joint analysis of distributed data while preserving its privacy.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> March - April 2023&lt;br>
+&lt;strong>Technologies:&lt;/strong> C++, CryptoPP, Docker, Visual Studio&lt;/p>
+&lt;h2 id="anonymous-online-voting">Anonymous Online Voting
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/vote.jpg"
+width="410"
+height="240"
+srcset="https://simongreenblatt.github.io/p/projects/vote_hu17850748079666629236.jpg 480w, https://simongreenblatt.github.io/p/projects/vote_hu4669638182668733502.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="170"
+data-flex-basis="410px"
+>&lt;/p>
+&lt;p>Four parties come together to form a secure voting platform: Arbiters generate election parameters and decrypt the final result, a Registrar issues voting certificates, a Tallyer checks that votes are valid, and the voters themselves cast the votes. I use non-interactive &lt;strong>Zero-Knowledge Proofs&lt;/strong> to establish a framework of trust by ensuring that votes are generated correctly, and that the final results are honest. Votes are encrypted using additive homomorphic encryption and partially decrypted using &lt;strong>threshold ElGamal&lt;/strong> before they&amp;rsquo;re combined to retrieve the final result.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> March 2023&lt;br>
+&lt;strong>Technologies:&lt;/strong> C++, CryptoPP, Docker, Visual Studio&lt;/p>
+&lt;h2 id="public-key-infrastructure">Public Key Infrastructure
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/certificate.jpg"
+width="400"
+height="211"
+srcset="https://simongreenblatt.github.io/p/projects/certificate_hu8338207720966276153.jpg 480w, https://simongreenblatt.github.io/p/projects/certificate_hu12980624542795442652.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="189"
+data-flex-basis="454px"
+>&lt;/p>
+&lt;p>This client-server authentication platform leverages &lt;strong>digital signatures&lt;/strong> in order for a central verification authority to issue certificates that authenticate users&amp;rsquo; public keys. Clients log in to a server using a password and two-factor authentication response to obtain a certificate that verifies their identity when communicating with other users. Passwords are hashed using a salt and pepper before being stored in a SQL database. This program achieves an authenticated key exchange that is secure against &lt;strong>man-in-the-middle attacks&lt;/strong>.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> February - March 2023&lt;br>
+&lt;strong>Technologies:&lt;/strong> C++, Docker, Visual Studio, SQLite&lt;/p>
+&lt;h2 id="secure-communication-framework">Secure Communication Framework
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/signal.jpg"
+width="400"
+height="229"
+srcset="https://simongreenblatt.github.io/p/projects/signal_hu14502480748852228223.jpg 480w, https://simongreenblatt.github.io/p/projects/signal_hu19037961919104632.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="174"
+data-flex-basis="419px"
+>&lt;/p>
+&lt;p>The most fundamental problem in cryptography is that of establishing a &lt;strong>secure communication channel&lt;/strong> that provides both message confidentiality and integrity. This program accomplishes just that. Two clients connect to each other to exchange encrypted and verified text messages through a command line interface. A &lt;strong>Diffie-Hellman ratchet&lt;/strong> ensures keys are changed every time the direction of communication switches. The following cryptographic parameters are used – Key Exchange: Diffie-Hellman and HKDF. Encryption: 256-bit AES in CBC mode with random IV. Message Authentication: HMAC-SHA256 with salt.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> February 2023&lt;br>
+&lt;strong>Technologies:&lt;/strong> C++, CryptoPP, Docker, Visual Studio&lt;/p>
+&lt;h2 id="thread-safety-and-synchronization">Thread Safety and Synchronization
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/clock.jpg"
+width="400"
+height="246"
+srcset="https://simongreenblatt.github.io/p/projects/clock_hu3340124560407501948.jpg 480w, https://simongreenblatt.github.io/p/projects/clock_hu3325008516894188917.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="162"
+data-flex-basis="390px"
+>&lt;/p>
+&lt;p>We like threads to cooperate by using shared memory. But what happens when two threads try to concurrently access the same memory? This project examines different ways of resolving race conditions and the &lt;strong>critical section problem&lt;/strong>. Noun and adjective generators initialize threads that must share structures in a bounded buffer before they can be printed to the screen. In order to ensure mutual exclusion of memory among threads, I used &lt;strong>semaphores&lt;/strong>, mutexes, and condition variables.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> January - May 2022&lt;br>
+&lt;strong>Technologies:&lt;/strong> EOS Linux, POSIX System Calls, Von Neumann Architecture&lt;/p>
+&lt;h2 id="data-structures-and-algorithms-library">Data Structures and Algorithms Library
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/structures.jpg"
+width="400"
+height="199"
+srcset="https://simongreenblatt.github.io/p/projects/structures_hu342836421495758042.jpg 480w, https://simongreenblatt.github.io/p/projects/structures_hu7746843668754057115.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="201"
+data-flex-basis="482px"
+>&lt;/p>
+&lt;p>This Java library of over 30 data structures and algorithms demonstrates the importance of &lt;strong>algorithmic complexity&lt;/strong> in relation to the choice of data structures. In it, I&amp;rsquo;ve coded linked-list and array-based variations of stacks, queues, trees, lists, graphs, hash tables, and other structures. I&amp;rsquo;ve also included implementations of related algorithms such as Quicksort, Breadth-first search, Dijkstra&amp;rsquo;s Algorithm, tree traversal algorithms, and many others. This project was built using the principles of &lt;strong>Object-Oriented Programming&lt;/strong> and does not rely on existing Java libraries.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> January - May 2021&lt;br>
+&lt;strong>Technologies:&lt;/strong> Java, Eclipse, Jenkins, GitHub&lt;/p>
+&lt;h2 id="movie-database">Movie Database
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/database.jpg"
+width="450"
+height="300"
+srcset="https://simongreenblatt.github.io/p/projects/database_hu187449956456088417.jpg 480w, https://simongreenblatt.github.io/p/projects/database_hu5283356634137608757.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
+>&lt;/p>
+&lt;p>This program manages a database of movie entries that are loaded from a file. The command line interface allows the user to sort and display movies by genre or release date. By using the C language, a &lt;strong>low-level procedural programming&lt;/strong> approach allowed me to explore concepts such as memory leaks, function pointers, and &lt;strong>dynamic memory allocation&lt;/strong>. As a behind-the-scenes look at object orientation, this project exposes how techniques like inheritance and overriding work in C++.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> January - May 2021&lt;br>
+&lt;strong>Technologies:&lt;/strong> C language, Valgrind, GNU Debugger (GDB), GitHub&lt;/p>
+&lt;h2 id="management-system-application">Management System Application
+&lt;/h2>&lt;p>&lt;img src="https://simongreenblatt.github.io/p/projects/management.jpg"
+width="500"
+height="224"
+srcset="https://simongreenblatt.github.io/p/projects/management_hu2473353097509389185.jpg 480w, https://simongreenblatt.github.io/p/projects/management_hu11941195535605678806.jpg 1024w"
+loading="lazy"
+alt=" "
+class="gallery-image"
+data-flex-grow="223"
+data-flex-basis="535px"
+>&lt;/p>
+&lt;p>Based on the Model-View-Controller design pattern, I developed a &lt;strong>management application&lt;/strong> for handling the customers, inventory, and orders of a fictional business. This project gave me experience with the &lt;strong>software development lifecycle&lt;/strong>, debugging techniques, continuous integration practices, and unit/system testing. From UML class diagrams to user stories, this project took a comprehensive look at software development processes and practices.&lt;/p>
+&lt;p>&lt;strong>Timeline:&lt;/strong> August - December 2020&lt;br>
+&lt;strong>Technologies:&lt;/strong> Java, Eclipse, UMLet, GitHub&lt;/p>
+&lt;p>Due to academic integrity policies, I&amp;rsquo;m not able to provide source code for some or all of my projects.&lt;/p></description></item></channel></rss>
